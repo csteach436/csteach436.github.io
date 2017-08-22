@@ -1,0 +1,22 @@
+name: "csteach436"
+subname: "Markup Languages"
+description: "a collection of resources for COMP 436..."
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: kramdown
+permalink: "/:categories/:title"
+highlighter: rouge
+
+excerpt_separator: <!--more-->
+
+collections:
+  library:
+    output: true
+  indices:
+    output: true
+
+gems:
+  - jekyll-sitemap
