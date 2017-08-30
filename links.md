@@ -23,28 +23,29 @@ If you have any suggestions for additions to this section of the site, please fe
 ***
 
 <!--
+#### Archives & Resources
+  * [British Library](https://www.bl.uk/)
+    * https://www.bl.uk/
+  * [EEBO-TCP](http://www.textcreationpartnership.org/tcp-eebo/)
+    * http://www.textcreationpartnership.org/tcp-eebo/
+  * [Internet Archive](https://archive.org/)
+    * https://archive.org/
+  * [Library of Congress](https://www.loc.gov/)
+    * https://www.loc.gov/
+
 #### Articles & Papers
 
-*
+  *
 
 #### Documentation & Guides
 
   *
 
-#### Frameworks & Libraries - CSS, JS... (a few examples)
-
-  *
-
-#### Mockup & Prototype Tools - a few examples
+#### Projects & Examples
 
   *
 
 #### Various
-
-*
-
-#### Videos
-
 *
 
 #### Useful Tools & Reference
@@ -53,7 +54,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Websites
 
-* 
+*
 
 ***
 

@@ -16,8 +16,6 @@ Course assessment will continue throughout the semester.
 
 If you have any questions on the following assessments, please [contact](/contact) me.
 
-<!--
-
 #### Overview
 
 * assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
@@ -31,8 +29,7 @@ If you have any questions on the following assessments, please [contact](/contac
       * where and why did you update the app?
       * benefits of updates
       * ...
-  * work may be conducted individually or in groups (max. 4 persons per group)
-    * **hint**: working as a group will be a lot easier
+  * groups will be assigned at the start of the semester (max. 4 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
@@ -58,20 +55,15 @@ If you have any questions on the following assessments, please [contact](/contac
 
 ##### 2. DEV week assessment (30%)
 
-* begin development of a web application
-  * built from scratch
+* begin development of an application/project that predominantly uses markup languages
   * builds upon examples, technology outlined during first part of semester
   * purpose, scope &c. is group's choice
-  * **NO** blogs, to-do lists, note-taking...
-    * chosen topic requires approval
-  * **NO** PHP, Python, Ruby, Go, XML, Bootstrap...
-  * must implement data from either
-      * self hosted (MongoDB, Redis...)
-      * APIs
-      * cloud services (Firebase...)
-      * **NO** SQL...
+* each application/project must demonstrate
+  * clear understanding of markup language usage and structure
+  * structure and usage of metadata
+  * semantic organisation and usage
 * outline research conducted
-* describe data chosen for application
+* describe data, metadata chosen for application/project
 * show any prototypes, patterns, and designs
 
 **NB:** DEV week assessment will include the following:
@@ -81,21 +73,25 @@ If you have any questions on the following assessments, please [contact](/contac
   * analysis of work conducted so far
     * e.g. during semester & DEV week
   * presentation and demonstration
-    * outline current state of web app
-    * show prototypes and designs
+    * outline current state of application/project
+    * show prototypes, designs, outlines &c.
     * explain what works & does not work
+      * i.e. outline what has been completed to date...
     * ...
 
 <a id="assessment3"></a>
 
 ##### 3. final assessment (40%)
 
-* continue to develop your app concept and prototypes
+* continue to develop your application/project concept and prototypes
 * working app (as close as possible...)
-  * **NO** PHP, Python, Ruby, Go, XML, SQL, Bootstrap...
-* explain design decisions
-  * describe patterns used in design of UI and interaction
-  * layout choices...
+  * or project research and development
+* clearly detail
+  * technology choices
+  * metadata schemes &c.
+  * manipulation and rendering of ML
+  * choice of semantic organisation and usage
+  * ...
 * show and explain implemented differences from DEV week
   * where and why did you update the app?
   * perceived benefits of the updates?
@@ -105,11 +101,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due Monday 16th October 2017 @ 4.15pm
+  * due Wednesday 18th October 2017 @ 4.15pm
 * final team demo
-  * due Monday 4th December 2017 @ 4.15pm
+  * due Wednesday 6th December 2017 @ 4.15pm
 * final team report
-  * due Monday 11th December 2017 @ 4.15pm
+  * due Wednesday 13th December 2017 @ 4.15pm
 
 #### Grading
 
@@ -126,5 +122,3 @@ Grades will use the following scale,
   * 50% to 41%  = C
   * 40% to 31%  = F
   * 30% to 0%   = ?
-
--->
