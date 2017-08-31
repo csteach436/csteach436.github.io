@@ -22,4 +22,7 @@ There is no specific textbook for this course.
 
 
 ##### Week 1 - 30th August 2017
-  
+  * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    * https://developer.mozilla.org/en-US/docs/Web/HTML
+  * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
+  * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
