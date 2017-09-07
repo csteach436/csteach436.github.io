@@ -18,6 +18,12 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 2 - 6th September 2017
+  * [course](/assets/docs/2017/Comp436-week2.pdf)
+  * extras
+    * [HTML intro](/assets/docs/extras/html-intro.pdf)
+    * [HTML basics](/assets/docs/extras/html-basics.pdf)
+
 ##### Week 1 - 30th August 2017
   * [course](/assets/docs/2017/Comp436-week1.pdf)
   * extras

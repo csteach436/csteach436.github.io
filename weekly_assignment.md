@@ -18,6 +18,23 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 2 - 6th September 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the extra documents
+  * [HTML intro](/assets/docs/extras/html-intro.pdf)
+  * [HTML basics](/assets/docs/extras/html-basics.pdf)
+* Please check the following board on Trello for group details, including individual group assignments
+  * [Project Groups](https://trello.com/b/RsA3xTJC/project-groups)
+* Please ensure you've updated your project details and idea &c. on the following board,
+  * [Week 1 - Project Details](https://trello.com/b/s0t9azSu/week-1-project-details)
+* Please create a GitHub account for your project group
+  * create a new repository for `source` code & any other project material or notes
+  * add the GitHub details for your project to the appropriate group list on Trello,
+    * [Project Groups](https://trello.com/b/RsA3xTJC/project-groups)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 1 - 30th August 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document
   * [Git basics](/assets/docs/extras/git-basics.pdf)

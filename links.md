@@ -36,6 +36,9 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Documentation & Guides
 
   * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
+  * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+  * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 #### Projects & Examples
 
