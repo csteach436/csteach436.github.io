@@ -23,6 +23,7 @@ If you have any suggestions for additions to this section of the site, please fe
 ***
 
 #### Archives & Resources
+
   * [British Library](https://www.bl.uk/)
   * [EEBO-TCP](http://www.textcreationpartnership.org/tcp-eebo/)
   * [Internet Archive](https://archive.org/)
@@ -39,6 +40,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
   * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+  * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+  * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
 #### Projects & Examples
 
@@ -51,10 +54,11 @@ If you have any suggestions for additions to this section of the site, please fe
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
 
-<!--
 #### Various
-*
 
+  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
+
+<!--
 #### Useful Tools & Reference
 
 *

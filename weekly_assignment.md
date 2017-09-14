@@ -18,6 +18,26 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 3 - 13th September 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra document,
+  * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+* Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach436/source/tree/master/week%203)
+* Please add the following details to the [Week 3 - Project Material](https://trello.com/b/xKweONJK/week-3-project-material) board on Trello,
+  * any media collected and researched for your project
+    * e.g. texts, video, audio...
+  * metadata applicable to this material
+    * think about *title*, *description*, *author*, *place*, *creator*...and so on
+  <!--* usage examples for this media content
+    * i.e. what might a user want to do with this content?
+    * are the user requirements for this content the same as the project?
+      * i.e. structured and organised data to present information, searching, cataloguing, &c. compared with viewing and searching by a user...-->
+  * any other research conducted to date...
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 2 - 6th September 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the extra documents
   * [HTML intro](/assets/docs/extras/html-intro.pdf)
