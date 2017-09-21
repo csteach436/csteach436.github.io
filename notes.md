@@ -18,6 +18,12 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 4 - 20th September 2017
+  * [course](/assets/docs/2017/Comp436-week4.pdf)
+  * extras
+    * [CSS intro](/assets/docs/extras/css-intro.pdf)
+    * [CSS basics](/assets/docs/extras/css-basics.pdf)
+
 ##### Week 3 - 13th September 2017
   * [course](/assets/docs/2017/Comp436-week3.pdf)
   * extras

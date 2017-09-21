@@ -36,12 +36,14 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
   * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
   * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
 
 #### Projects & Examples
 

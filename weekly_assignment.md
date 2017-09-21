@@ -18,6 +18,23 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 4 - 20th September 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra documents,
+  * [CSS intro](/assets/docs/extras/css-intro.pdf)
+  * [CSS basics](/assets/docs/extras/css-basics.pdf)
+* Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 4](https://github.com/csteach436/source/tree/master/week4)
+* Please add the following details to the [Week 4 - Usage Examples](https://trello.com/b/QsXAFquW/week-4-usage-examples) board on Trello,
+    * consider usage examples for media content outlined for [Week 3 - Project Material](https://trello.com/b/xKweONJK/week-3-project-material) on Trello
+    * i.e. what might a user want to do with this content?
+    * are the user requirements for this content the same as the project?
+      * i.e. structured and organised data to present information, searching, cataloguing, &c. compared with viewing and searching by a user...
+    * add any other research conducted to date...
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 3 - 13th September 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra document,
   * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
