@@ -43,7 +43,15 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+
+##### W3C
+  * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
+  * [W3C - OWL](https://www.w3.org/OWL/)
+  * [W3C - RDF](https://www.w3.org/RDF/)
+  * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
+  * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
+  * [Xalan Project](https://xalan.apache.org/)
 
 #### Projects & Examples
 
@@ -60,11 +68,15 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
 
-<!--
 #### Useful Tools & Reference
 
-*
+  * [Atom Editor](https://atom.io/)
+  * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
+  * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
+  * [Sublime Text](https://www.sublimetext.com/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
 
+<!--
 #### Websites
 
 *

@@ -20,6 +20,15 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 5 - 27th September 2017
+  * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
+  * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
+  * [W#C - OWL](https://www.w3.org/OWL/)
+  * [W3C - RDF](https://www.w3.org/RDF/)
+  * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
+  * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
+  * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
+
 ##### Week 4 - 20th September 2017
   * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)

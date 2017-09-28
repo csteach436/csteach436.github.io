@@ -18,6 +18,26 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 5 - 27th September 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 5](https://github.com/csteach436/source/tree/master/week5)
+* Please send me a copy of your group's completed class exercises, *Exercise 1 to 5* in this week's course notes. Either,
+  * push to a directory on your group's GitHub account, or
+  * attach these files as an attachment to an email message
+* Please add the following examples to [Week 5 - Markup Examples](https://trello.com/b/aszKKWLM/week-5-markup-examples) board on Trello,
+  * using usage examples from Week 3 and Week 4 start *marking up* documents using your project's preferred markup language
+      * e.g. XML
+  * documents should at least meet requirements for *well-formed*...
+  * test initial processing with XSL or equivalent processing/parsing for your chosen markup language
+      * add a note on chosen processor/parser, and why...
+  * add these documents as attachments to this board
+      * push a copy to your group's GitHub account (e.g. in a directory named 'week 5')
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 4 - 20th September 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra documents,
   * [CSS intro](/assets/docs/extras/css-intro.pdf)
@@ -25,7 +45,7 @@ summary: weekly assignment for COMP 436
 * Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach436/source/tree/master/week4)
 * Please add the following details to the [Week 4 - Usage Examples](https://trello.com/b/QsXAFquW/week-4-usage-examples) board on Trello,
-    * consider usage examples for media content outlined for [Week 3 - Project Material](https://trello.com/b/xKweONJK/week-3-project-material) on Trello
+  * consider usage examples for media content outlined for [Week 3 - Project Material](https://trello.com/b/xKweONJK/week-3-project-material) on Trello
     * i.e. what might a user want to do with this content?
     * are the user requirements for this content the same as the project?
       * i.e. structured and organised data to present information, searching, cataloguing, &c. compared with viewing and searching by a user...

@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 5 - 27th September 2017
+  * [course](/assets/docs/2017/Comp436-week5.pdf)
+
 ##### Week 4 - 20th September 2017
   * [course](/assets/docs/2017/Comp436-week4.pdf)
   * extras
