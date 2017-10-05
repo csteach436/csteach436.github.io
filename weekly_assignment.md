@@ -18,6 +18,25 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 6 - 4th October 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 6](https://github.com/csteach436/source/tree/master/week6)
+* Please send me a copy of your group's completed class exercises from this week's course notes
+  * push to a directory on your group's GitHub account
+* Please ensure all class exercises for your group are now up to date
+  * push any outstanding copies of class exercises to your group's GitHub account
+* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 3, 4, and 5 of this week's class [notes](/assets/docs/2017/Comp436-week6.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
+* Please add updates on your group's project development to the course's Trello group,
+  * [Week 6 - DEV Week](https://trello.com/b/S85UuzAN/week-6-dev-week)
+  * I've added instructions on this board.
+
+**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
+
+Enjoy your DEV Week and mid-semester break.
+
 ##### Week 5 - 27th September 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
