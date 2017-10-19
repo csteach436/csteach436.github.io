@@ -18,6 +18,28 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 8 - 18th October 2017
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [1 - Group A](https://goo.gl/forms/Obq11LW60LDZ5C8Q2)
+  * [2 - Group C](https://goo.gl/forms/GMEOmoPImk90dlLY2)
+  * [3 - Group D](https://goo.gl/forms/Z636WcbWjOtfd1hG2)
+  * [4 - Group E](https://goo.gl/forms/ywitYA0prZGTKxgl1)
+  * [5 - Group F](https://goo.gl/forms/okAWCy1BJTR4PUVv1)
+* Complete these peer review forms by **Wednesday 25th October 2017** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* Please add your DEV week presentation files, notes, &c. to the following board on Trello,
+  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/3NqdVhUk/week-8-dev-week-presentation-files)
+  * Please add these files as soon as possible, and by **Wednesday 25th October 2017** at the latest
+  * instructions are included as a list on the above board
+* Please share your completed DEV Week code, and any associated files or data, with myself
+  * code &c. should be pushed to your group's repository on GitHub
+  * please share these files by **Wednesday 25th October 2017** at the latest
+* Complete the following Trello board,
+  * [Week 8 - DEV Week Contributions](https://trello.com/b/aAOL5p9R/week-8-dev-week-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+  * please complete this requirement by **Wednesday 25th October 2017** at the latest
+
 ##### Week 6 - 4th October 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,

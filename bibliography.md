@@ -20,8 +20,10 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 8 - 18th October 2017
+  * [XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
+
 ##### Week 6 - 4th October 2017
-  * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - OWL](https://www.w3.org/OWL/)
   * [W3C - RDF](https://www.w3.org/RDF/)

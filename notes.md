@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 8 - 18th October 2017
+  * N/A
+
 ##### Week 6 - 4th October 2017
   * [course](/assets/docs/2017/Comp436-week6.pdf)
 
