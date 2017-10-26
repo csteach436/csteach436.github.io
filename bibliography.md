@@ -20,8 +20,11 @@ There is no specific textbook for this course.
 
 ***
 
-##### Week 8 - 18th October 2017
+##### Week 9 - 25th October 2017
   * [XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
+
+##### Week 8 - 18th October 2017
+  * N/A
 
 ##### Week 6 - 4th October 2017
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)

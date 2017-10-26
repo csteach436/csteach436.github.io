@@ -18,6 +18,12 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 9 - 25th October 2017
+  * [course](/assets/docs/2017/Comp436-week9.pdf)
+  * extras
+    * [HTML5 intro](/assets/docs/extras/html5-intro.pdf)
+    * [HTML5 extra](/assets/docs/extras/html5-extra.pdf)
+
 ##### Week 8 - 18th October 2017
   * N/A
 
