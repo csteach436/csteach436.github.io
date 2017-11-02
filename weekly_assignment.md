@@ -18,6 +18,24 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 10 - 1st November 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 10](https://github.com/csteach436/source/tree/master/week10)
+* Please send me a copy of your group's completed class exercises from this week's course notes
+  * push to a directory on your group's GitHub account
+* Please contribute to this week's class discussion on Slack, **#discussion-week10**, for the following XML-based project, [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
+  * please consider the general structure of this project
+  * how does it present its textual documents?
+  * which site features do you like and dislike? why?
+  * how do they use filters, sort, and search to help present their project material?
+  * how do they combine their material within the structure of the project? i.e. textual documents (transcriptions) and the accompanying images
+  * add any other thoughts or comments on this project...
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 9 - 25th October 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,

@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 10 - 1st November 2017
+  * [course](/assets/docs/2017/Comp436-week10.pdf)
+
 ##### Week 9 - 25th October 2017
   * [course](/assets/docs/2017/Comp436-week9.pdf)
   * extras
