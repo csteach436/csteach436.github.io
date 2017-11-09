@@ -20,6 +20,19 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 11 - 8th November 2017
+  * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
+  * Dempsey, L and R Heery. *Metadata: A current view of practice and issues.* Journal of Documentation, 54(2). PP.145–172. 1998.
+  * [Dublin Core](http://dublincore.org/)
+  * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
+  * Garoufallou, E., Greenberg, J., *Metadata and Semantics Research: 7th International Conference*. MSTR. 2013.
+  * Kartus, E. *Types of metadata.* University of Melbourne. 2006. http://www.infodiv.unimelb.edu.au/metadata/add_info.html
+  * [Learning Objects Metadata](https://en.wikipedia.org/wiki/Learning_object_metadata)
+  * [Open Archival Information Systems](https://www.oclc.org/research/publications/library/2000/lavoie-oais.html)
+  * [PREMIS](https://www.loc.gov/standards/premis/)
+  * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
+  * [Steve Museum Project](http://storytelling.concordia.ca/resources/steve-museum)
+
 ##### Week 10 - 1st November 2017
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)

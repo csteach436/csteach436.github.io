@@ -18,6 +18,27 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 11 - 8th November 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 11](https://github.com/csteach436/source/tree/master/week11)
+* Please send me a copy of your group's completed class exercises from this week's course notes
+  * push to a directory on your group's GitHub account
+* Please prepare your example XML and XSLT class exercises ready for a brief presentation
+  * this will be a brief *show and tell* demo of the work completed in class
+  * demo will be at the start of the next class
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the following TEI-based project, [Folger Digital Texts](http://www.folgerdigitaltexts.org/)
+  * please consider the project's general structure and presentation of rendered texts
+  * how does this project use XML and the encoded texts?
+  * how does the project use TEI?
+  * what is the role of metadata in this project?
+  * what do you like or dislike about the general usage of texts?
+  * add any other thoughts or comments on this project...
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 10 - 1st November 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
