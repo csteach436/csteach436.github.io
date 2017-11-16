@@ -21,7 +21,7 @@ There is no specific textbook for this course.
 ***
 
 ##### Week 12 - 15th November 2017
-  * [Text Encoding Initiative - TEI](http://www.tei-c.org/index.xml)
+  * [TEI](http://www.tei-c.org/index.xml)
   * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
 
 ##### Week 11 - 8th November 2017
