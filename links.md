@@ -50,6 +50,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Open Archival Information Systems](https://www.oclc.org/research/publications/library/2000/lavoie-oais.html)
   * [PREMIS](https://www.loc.gov/standards/premis/)
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
+  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
 
 ##### W3C
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
@@ -69,13 +70,10 @@ If you have any suggestions for additions to this section of the site, please fe
     * [Caxton XML](http://www.maloryproject.com/xml/caxton/Caxton.xml)
     * [Project site](http://www.maloryproject.com)
   * [Papers Past](https://paperspast.natlib.govt.nz/)
+  * [Text Encoding Initiative - TEI](http://www.tei-c.org/index.xml)
   * [TEI Project - intro](http://www.tei-c.org/About/history.xml)
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
-
-#### Various
-
-  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
 
 #### Useful Tools & Reference
 
@@ -85,11 +83,10 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Sublime Text](https://www.sublimetext.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
 
-<!--
-#### Websites
+#### Various
 
-*
--->
+  * [last.fm](https://www.last.fm/)
+  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
 
 ***
 

@@ -18,6 +18,26 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 12 - 15th November 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review the TEI XML code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 12](https://github.com/csteach436/source/tree/master/week12)
+* Please complete the exercise on the penultimate page of this week's [course notes](/assets/docs/2017/Comp436-week12.pdf),
+  * try to expand upon the example created at the end of this week's class
+  * consider extra TEI elements and attributes applicable to the encoded text
+  * send me a copy of this work in a private message on Slack
+* Please add the following details to [Week 12 - Project Schema](https://trello.com/b/nGHYg5mm/week-12-project-schema) board on Trello,
+  * using TEI as an example, please consider and outline the following for your project's *schema*
+    * semantic groupings for elements and attributes
+    * textual phenomena, including
+      * analytical features
+      * logical and semantic features
+    * non-textual phenomena (where applicable)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 11 - 8th November 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,

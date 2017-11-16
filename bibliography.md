@@ -20,6 +20,10 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 12 - 15th November 2017
+  * [Text Encoding Initiative - TEI](http://www.tei-c.org/index.xml)
+  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
+
 ##### Week 11 - 8th November 2017
   * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
   * Dempsey, L and R Heery. *Metadata: A current view of practice and issues.* Journal of Documentation, 54(2). PP.145–172. 1998.

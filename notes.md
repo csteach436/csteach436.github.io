@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 12 - 15th November 2017
+  * [course](/assets/docs/2017/Comp436-week12.pdf)
+
 ##### Week 11 - 8th November 2017
   * [course](/assets/docs/2017/Comp436-week11.pdf)
 
