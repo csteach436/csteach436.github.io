@@ -20,6 +20,16 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 14 - 29th November 2017
+  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
+    * [representation of primary sources](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html)
+    * [facsimile](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html)
+    * [surface](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surface.html)
+    * [zone](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-zone.html)
+
+##### Week 13 - 22nd November 2017
+  * N/A
+
 ##### Week 12 - 15th November 2017
   * [TEI](http://www.tei-c.org/index.xml)
   * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)

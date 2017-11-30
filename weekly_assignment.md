@@ -18,6 +18,27 @@ summary: weekly assignment for COMP 436
 
 ***
 
+##### Week 14 - 29th November 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra document,
+  * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2017.pdf)
+* Review the TEI XML code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 14](https://github.com/csteach436/source/tree/master/week14)
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2017.pdf)
+* Please prepare your group's project presentation for Wednesday 6th December 2017
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be a maximum of 10 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Wednesday 6th December 2017.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+##### Week 13 - 22nd November 2017
+* N/A
+
 ##### Week 12 - 15th November 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the TEI XML code examples posted to the **source** repository on the course's GitHub account,

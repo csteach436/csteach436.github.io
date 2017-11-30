@@ -33,6 +33,8 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp436-final-report-outline-2017.pdf)
+
 #### Assessed coursework will include the following primary categories:
 
 <a id="assessment1"></a>
@@ -89,8 +91,9 @@ If you have any questions on the following assessments, please [contact](/contac
 * clearly detail
   * technology choices
   * metadata schemes &c.
-  * manipulation and rendering of ML
+  * manipulation and rendering of markup language
   * choice of semantic organisation and usage
+  * schema usage
   * ...
 * show and explain implemented differences from DEV week
   * where and why did you update the app?
@@ -110,6 +113,7 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Grading
 
 Grades will be issued for appropriate weekly or section tasks, where applicable, and for each of the core assessments listed above.
+
 A composite grade will then be available at the end of the semester for the overall class.
 
 Grades will use the following scale,
