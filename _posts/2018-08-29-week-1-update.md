@@ -7,9 +7,9 @@ categories:
 - blog
 
 tags: general news
-year: 2017
+year: 2018
 month: 08
-day: 30
+day: 29
 published: true
 summary: site updated and week 1 assignment
 menu: new-semester

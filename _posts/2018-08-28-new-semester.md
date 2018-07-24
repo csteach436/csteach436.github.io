@@ -9,7 +9,7 @@ categories:
 tags: general news
 year: 2018
 month: 08
-day: 29
+day: 28
 published: true
 summary: welcome to the new Fall semester, 2018
 menu: new-semester
