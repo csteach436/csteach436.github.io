@@ -33,7 +33,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-* [Final Report Outline - PDF Document](/assets/docs/extras/comp436-final-report-outline-2017.pdf)
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
 
 #### Assessed coursework will include the following primary categories:
 
@@ -104,11 +104,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due Wednesday 18th October 2017 @ 4.15pm
+  * due Wednesday 17th October 2018 @ 4.15pm
 * final team demo
-  * due Wednesday 6th December 2017 @ 4.15pm
+  * due Wednesday 5th December 2018 @ 4.15pm
 * final team report
-  * due Wednesday 13th December 2017 @ 4.15pm
+  * due Wednesday 12th December 2018 @ 4.15pm
 
 #### Grading
 

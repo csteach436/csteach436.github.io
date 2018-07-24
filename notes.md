@@ -18,6 +18,7 @@ This material will be updated on a weekly basis.
 
 ***
 
+<!--
 ##### Week 15 - 6th December 2017
   * extras
     * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2017.pdf)
@@ -75,3 +76,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/Comp436-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
+-->
+
+##### Week 1 - 29th August 2018
+  * 

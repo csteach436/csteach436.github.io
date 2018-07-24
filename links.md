@@ -22,6 +22,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
+Links will be added during the course...
+
+<!--
 #### Archives & Resources
 
   * [British Library](https://www.bl.uk/)
@@ -87,7 +90,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * [last.fm](https://www.last.fm/)
   * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
-
+-->
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.

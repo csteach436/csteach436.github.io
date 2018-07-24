@@ -18,6 +18,7 @@ summary: weekly assignment for COMP 436
 
 ***
 
+<!--
 #### Week 15 - 6th December 2017
 
 * Please complete your group's final project report
@@ -225,10 +226,10 @@ Enjoy your week.
     * e.g. texts, video, audio...
   * metadata applicable to this material
     * think about *title*, *description*, *author*, *place*, *creator*...and so on
-  <!--* usage examples for this media content
+    * usage examples for this media content
     * i.e. what might a user want to do with this content?
     * are the user requirements for this content the same as the project?
-      * i.e. structured and organised data to present information, searching, cataloguing, &c. compared with viewing and searching by a user...-->
+      * i.e. structured and organised data to present information, searching, cataloguing, &c. compared with viewing and searching by a user...
   * any other research conducted to date...
 
 Any questions, please let me know.
@@ -286,3 +287,7 @@ The course's Trello group is available at the following URL,
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+-->
+
+##### Week 1 - 29th August 2018
+  * 

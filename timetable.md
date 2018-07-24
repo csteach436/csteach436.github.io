@@ -17,25 +17,24 @@ summary: course timetable for COMP 436
 This class will meet at the following time and place,
 
 * Time: Wednesday 4.15pm to 6.45pm
-* Place: [Corboy Law Center - Room L08](http://www.luc.edu/media/lucedu/wtc.pdf)
+* Place: [Corboy Law Center - Room 522](http://www.luc.edu/media/lucedu/wtc.pdf)
 
 #### Important Dates
 
-* DEV week: 9th to 16th October 2017
-  * **n.b.** no formal class: 11th October 2017
-  * presentation & demo: 18th October 2017 @ 4.15pm
-* Thanksgiving break: 22nd to 25th November 2017
-  * **n.b.** no formal class: 22nd November 2017
-* Final class: 6th December 2017
-	* presentation & demo: 6th December 2017 @ 4.15pm
-* Exam week: 11th December to 16th December 2017
-	* Final assessment due on 13th December 2017 by 4.15pm
+* DEV week: 10th to 17th October 2018
+  * presentation & demo: 17th October 2018 @ 4.15pm
+* Thanksgiving break: 21st to 25th November 2018
+  * **n.b.** no formal class: 21st November 2018
+* Final class: 5th December 2018
+	* presentation & demo: 5th December 2018 @ 4.15pm
+* Exam week: 10th December to 15th December 2018
+	* Final assessment due on 12th December 2018 by 4.15pm
 
 #### Coursework Schedule
 
 * DEV week demo
-  * due Wednesday 18th October 2017 @ 4.15pm
+  * due Wednesday 17th October 2018 @ 4.15pm
 * final team demo
-  * due Wednesday 6th December 2017 @ 4.15pm
+  * due Wednesday 5th December 2018 @ 4.15pm
 * final team report
-  * due Wednesday 13th December 2017 @ 4.15pm
+  * due Wednesday 12th December 2018 @ 4.15pm

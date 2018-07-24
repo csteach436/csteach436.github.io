@@ -8,7 +8,7 @@ categories:
 
 tags: general site home
 published: true
-summary: Markup Languages, Fall 2017
+summary: Markup Languages, Fall 2018
 ---
 
 Welcome to the course website for COMP 436, *Markup Languages*.

@@ -20,6 +20,7 @@ There is no specific textbook for this course.
 
 ***
 
+<!--
 ##### Week 15 - 6th December 2017
   * N/A
 
@@ -98,3 +99,7 @@ There is no specific textbook for this course.
     * https://developer.mozilla.org/en-US/docs/Web/HTML
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
+-->
+
+##### Week 1 - 29th August 2018
+  * 
