@@ -290,4 +290,4 @@ The course's Trello group is available at the following URL,
 -->
 
 ##### Week 1 - 29th August 2018
-  * 
+  *

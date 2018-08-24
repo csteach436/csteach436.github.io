@@ -18,7 +18,9 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Overview
 
-* assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
+* assessment will include a combination of semester's exercises and discussions ([1](#assessment1)), project outline and mockup ([2](#assessment2)), DEV week ([3](#assessment3)), and final demo and report ([4](#assessment4))
+  * project outline & mockup
+    * brief group presentation of initial concept and mockup
   * DEV week demo
     * brief group presentation and demo
   * final demo
@@ -26,10 +28,10 @@ If you have any questions on the following assessments, please [contact](/contac
   * final report
     * clearly detail design and development process
     * explain implemented differences from DEV week
-      * where and why did you update the app?
+      * where and why did you update the project?
       * benefits of updates
       * ...
-  * groups will be assigned at the start of the semester (max. 4 persons per group)
+  * groups will be organised at the start of the semester
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
@@ -39,23 +41,42 @@ If you have any questions on the following assessments, please [contact](/contac
 
 <a id="assessment1"></a>
 
-##### 1. quizzes or exercises at the end of each course section (30%)
+##### 1. weekly exercises & discussions (20%)
 
-* at least one week notice before quiz
-  * average time ~30 minutes (can be extended if necessary...)
-  * taken towards the end of class
 * exercises
   * help develop course project
   * test course knowledge at each stage
   * get feedback on project work
+* discussions
+  * sample projects and markup usage
+  * design topics and usage examples
 * extras
   * code and application reviews
-  * class discussions
   * various other assessments
 
 <a id="assessment2"></a>
 
-##### 2. DEV week assessment (30%)
+##### 2. project outline & mockup (15%)
+
+* begin outline and design of a markup based project
+  * built from scratch
+    * HTML5, XML...
+  * builds upon examples, technology outlined during first part of semester
+  * purpose, scope &c. is group's choice
+  * presentation should include mockup designs and concepts
+
+**n.b.** project outline assessment will include the following:
+
+* brief presentation or demonstration of current project work
+  * ~ 5 to 10 minutes per group
+  * analysis of work conducted so far
+  * presentation and demonstration
+    * outline current state of project concept and design
+    * show prototypes and designs, where applicable
+
+<a id="assessment3"></a>
+
+##### 3. DEV week assessment (25%)
 
 * begin development of an application/project that predominantly uses markup languages
   * builds upon examples, technology outlined during first part of semester
@@ -81,9 +102,9 @@ If you have any questions on the following assessments, please [contact](/contac
       * i.e. outline what has been completed to date...
     * ...
 
-<a id="assessment3"></a>
+<a id="assessment4"></a>
 
-##### 3. final assessment (40%)
+##### 4. final assessment (40%)
 
 * continue to develop your application/project concept and prototypes
 * working app (as close as possible...)
@@ -103,8 +124,10 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Important assessment dates
 
+* project outline and mockup
+  * due Wednesday 26th September 2018 @ 4.15pm
 * DEV week demo
-  * due Wednesday 17th October 2018 @ 4.15pm
+  * due Wednesday 31st October 2018 @ 4.15pm
 * final team demo
   * due Wednesday 5th December 2018 @ 4.15pm
 * final team report
