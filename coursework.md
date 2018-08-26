@@ -53,6 +53,7 @@ If you have any questions on the following assessments, please [contact](/contac
 * extras
   * code and application reviews
   * various other assessments
+  * peer review of demos
 
 <a id="assessment2"></a>
 
