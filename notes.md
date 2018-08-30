@@ -79,4 +79,6 @@ This material will be updated on a weekly basis.
 -->
 
 ##### Week 1 - 29th August 2018
-  * 
+  * [course](/assets/docs/2018/comp436-week1.pdf)
+  * extras
+    * [Git basics](/assets/docs/extras/git-basics.pdf)

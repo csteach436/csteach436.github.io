@@ -287,7 +287,54 @@ The course's Trello group is available at the following URL,
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+
+SLACK 2018 invite link = https://join.slack.com/t/csteach436-2018/shared_invite/enQtNDI1MDQ0ODI2NDU1LTM4MTY2NTc0OTI1MGY3YmZmZmQ2NGM2ODI3NTRlNGZjMzAwNmE1NzU0NDRmMDQwN2FiNTJhMjljYzg2YmNlMjU
+
 -->
 
 ##### Week 1 - 29th August 2018
-  *
+
+* Review this week's [notes and material](/notes), which includes the class notes and the extra document
+  * [Git basics](/assets/docs/extras/git-basics.pdf)
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/YOu07xPZ)
+  * project name
+  * the full name of each team member
+  * any ideas you are currently considering for this project work
+  * level of experience with markup languages
+    * e.g. HTML5, XML...
+  * preferred programming language
+    * e.g. Python, C#...
+
+Please read the instructions available on the board, and then create a new list for your project group.
+
+The course's Trello group is available at the following URL,
+
+* [COMP 436 - Fall 2018 @ LUC](https://trello.com/csteach436)
+  * https://trello.com/csteach436
+
+**n.b.** I'll send an invite for this Trello group to your registered LUC email address. If you do not currently have a Trello username, you'll need to register at the following URL,
+
+* Trello - [Signup](https://trello.com/signup)
+
+##### Slack group
+I've also created a Slack group for this course, which is called **COMP 436 - Fall 2018 @ LUC**.
+
+Invite link for this group is as follows,
+
+  * [COMP 436 - Fall 2018 @ LUC](https://join.slack.com/t/csteach436-2018/shared_invite/enQtNDI1MDQ0ODI2NDU1LTM4MTY2NTc0OTI1MGY3YmZmZmQ2NGM2ODI3NTRlNGZjMzAwNmE1NzU0NDRmMDQwN2FiNTJhMjljYzg2YmNlMjU)
+
+Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
+
+###### Extras
+* Review the following online Git tutorials (if necessary)
+  * [Getting Started - Installing Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  * [Getting Started - First-time Git Setup](http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+  * [Getting Started - Getting Help](http://git-scm.com/book/en/v2/Getting-Started-Getting-Help)
+  * [Git Basics - Getting a Git Repository](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+  * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+  * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+  * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+
+Any questions, please let me know.
+
+Enjoy your week.

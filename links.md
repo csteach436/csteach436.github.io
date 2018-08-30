@@ -24,7 +24,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Links will be added during the course...
 
-<!--
+
 #### Archives & Resources
 
   * [British Library](https://www.bl.uk/)
@@ -37,6 +37,7 @@ Links will be added during the course...
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
 
+<!--
 #### Documentation & Guides
 
   * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
@@ -65,6 +66,7 @@ Links will be added during the course...
   * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
   * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
   * [Xalan Project](https://xalan.apache.org/)
+-->
 
 #### Projects & Examples
 
@@ -78,6 +80,7 @@ Links will be added during the course...
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
 
+<!--
 #### Useful Tools & Reference
 
   * [Atom Editor](https://atom.io/)
