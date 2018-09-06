@@ -37,17 +37,18 @@ Links will be added during the course...
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
 
-<!--
 #### Documentation & Guides
 
+  * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
+  * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+
+<!--
   * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
   * [Dublin Core](http://dublincore.org/)
   * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
   * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
   * [Learning Objects Metadata](https://en.wikipedia.org/wiki/Learning_object_metadata)
-  * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
-  * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
@@ -55,11 +56,15 @@ Links will be added during the course...
   * [PREMIS](https://www.loc.gov/standards/premis/)
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
   * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
+-->
 
 ##### W3C
+
+  * [W3C - RDF](https://www.w3.org/RDF/)
+
+<!--
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - OWL](https://www.w3.org/OWL/)
-  * [W3C - RDF](https://www.w3.org/RDF/)
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
@@ -80,7 +85,6 @@ Links will be added during the course...
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
 
-<!--
 #### Useful Tools & Reference
 
   * [Atom Editor](https://atom.io/)
@@ -93,7 +97,7 @@ Links will be added during the course...
 
   * [last.fm](https://www.last.fm/)
   * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
--->
+
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
