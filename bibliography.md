@@ -80,7 +80,9 @@ There is no specific textbook for this course.
   * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
   * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
 
-##### Week 3 - 13th September 2017
+-->
+
+##### Week 3 - 12th September 2018
   * [MDN - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
   * [MDN - HTML `<b>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b)
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
@@ -88,8 +90,6 @@ There is no specific textbook for this course.
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
-  
--->
 
 ##### Week 2 - 5th September 2018
   * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)

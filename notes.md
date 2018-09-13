@@ -42,9 +42,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 9 - 25th October 2017
   * [course](/assets/docs/2017/Comp436-week9.pdf)
-  * extras
-    * [HTML5 intro](/assets/docs/extras/html5-intro.pdf)
-    * [HTML5 extra](/assets/docs/extras/html5-extra.pdf)
 
 ##### Week 8 - 18th October 2017
   * N/A
@@ -61,16 +58,15 @@ This material will be updated on a weekly basis.
     * [CSS intro](/assets/docs/extras/css-intro.pdf)
     * [CSS basics](/assets/docs/extras/css-basics.pdf)
 
-##### Week 3 - 13th September 2017
-  * [course](/assets/docs/2017/Comp436-week3.pdf)
-  * extras
-    * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+-->
 
-##### Week 2 - 6th September 2017
-  * [course](/assets/docs/2017/Comp436-week2.pdf)
+##### Week 3 - 12th September 2018
+  * [course](/assets/docs/2018/comp436-week3.pdf)
   * extras
     * [HTML basics](/assets/docs/extras/html-basics.pdf)
--->
+    * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+    * [HTML5 intro](/assets/docs/extras/html5-intro.pdf)
+    * [HTML5 extra](/assets/docs/extras/html5-extra.pdf)
 
 ##### Week 2 - 5th September 2018
   * [course](/assets/docs/2018/comp436-week2.pdf)

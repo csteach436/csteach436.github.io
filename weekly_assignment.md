@@ -216,12 +216,18 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 3 - 13th September 2017
+-->
+
+##### Week 3 - 12th September 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra document,
-  * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+  * extras
+    * [HTML basics](/assets/docs/extras/html-basics.pdf)
+    * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
+    * [HTML5 intro](/assets/docs/extras/html5-intro.pdf)
+    * [HTML5 extra](/assets/docs/extras/html5-extra.pdf)
 * Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 3](https://github.com/csteach436/source/tree/master/week%203)
-* Please add the following details to the [Week 3 - Project Material](https://trello.com/b/xKweONJK/week-3-project-material) board on Trello,
+* Please add the following details to the [Week 3 - Project Material](https://trello.com/b/Wl90ChvA/week-3-project-material) board on Trello,
   * any media collected and researched for your project
     * e.g. texts, video, audio...
   * metadata applicable to this material
@@ -235,8 +241,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 2 - 5th September 2018
 

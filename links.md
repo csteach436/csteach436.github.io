@@ -42,6 +42,9 @@ Links will be added during the course...
   * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
   * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+  * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+  * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
+  * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 
 <!--
   * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
@@ -49,9 +52,6 @@ Links will be added during the course...
   * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
   * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
   * [Learning Objects Metadata](https://en.wikipedia.org/wiki/Learning_object_metadata)
-  * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
-  * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
-  * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [Open Archival Information Systems](https://www.oclc.org/research/publications/library/2000/lavoie-oais.html)
   * [PREMIS](https://www.loc.gov/standards/premis/)
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
