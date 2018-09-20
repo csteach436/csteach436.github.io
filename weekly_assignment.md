@@ -195,16 +195,6 @@ Enjoy your DEV Week and mid-semester break.
   * add these documents as attachments to this board
       * push a copy to your group's GitHub account (e.g. in a directory named 'week 5')
 
-Any questions, please let me know.
-
-Enjoy your week.
-
-##### Week 4 - 20th September 2017
-* Review this week's [notes and material](/notes), which includes the class notes and the following extra documents,
-  * [CSS intro](/assets/docs/extras/css-intro.pdf)
-  * [CSS basics](/assets/docs/extras/css-basics.pdf)
-* Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 4](https://github.com/csteach436/source/tree/master/week4)
 * Please add the following details to the [Week 4 - Usage Examples](https://trello.com/b/QsXAFquW/week-4-usage-examples) board on Trello,
   * consider usage examples for media content outlined for [Week 3 - Project Material](https://trello.com/b/xKweONJK/week-3-project-material) on Trello
     * i.e. what might a user want to do with this content?
@@ -217,6 +207,26 @@ Any questions, please let me know.
 Enjoy your week.
 
 -->
+
+##### Week 4 - 19th September 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra documents,
+  * extras - CSS
+    * [CSS intro](/assets/docs/extras/css/css-intro.pdf)
+    * [CSS basics](/assets/docs/extras/css/css-basics.pdf)
+    * [CSS box model](/assets/docs/extras/css/css-box-model.pdf)
+    * [CSS HTML5](/assets/docs/extras/css/css-html5.pdf)
+  * extras - Design
+    * [Mockups](/assets/docs/extras/design/design-mockups.pdf)
+* Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 4](https://github.com/csteach436/source/tree/master/week4)
+* Please prepare your first presentation and demo for the start of next week's class
+  * further details may be found on the following pages,
+    * [Course Website - Coursework](http://csteach436.github.io/coursework/#assessment2)
+    * [Course Notes - Week 1 - Pages 9 & 10](http://csteach436.github.io/assets/docs/2018/comp436-week1.pdf)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 3 - 12th September 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra document,

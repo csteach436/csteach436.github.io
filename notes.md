@@ -51,27 +51,30 @@ This material will be updated on a weekly basis.
 
 ##### Week 5 - 27th September 2017
   * [course](/assets/docs/2017/Comp436-week5.pdf)
-
-##### Week 4 - 20th September 2017
-  * [course](/assets/docs/2017/Comp436-week4.pdf)
-  * extras
-    * [CSS intro](/assets/docs/extras/css-intro.pdf)
-    * [CSS basics](/assets/docs/extras/css-basics.pdf)
-
 -->
+
+##### Week 4 - 19th September 2018
+  * [course](/assets/docs/2018/comp436-week4.pdf)
+  * extras - CSS
+    * [CSS intro](/assets/docs/extras/css/css-intro.pdf)
+    * [CSS basics](/assets/docs/extras/css/css-basics.pdf)
+    * [CSS box model](/assets/docs/extras/css/css-box-model.pdf)
+    * [CSS HTML5](/assets/docs/extras/css/css-html5.pdf)
+  * extras - Design
+    * [Mockups](/assets/docs/extras/design/design-mockups.pdf)
 
 ##### Week 3 - 12th September 2018
   * [course](/assets/docs/2018/comp436-week3.pdf)
   * extras
-    * [HTML basics](/assets/docs/extras/html-basics.pdf)
-    * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
-    * [HTML5 intro](/assets/docs/extras/html5-intro.pdf)
-    * [HTML5 extra](/assets/docs/extras/html5-extra.pdf)
+    * [HTML basics](/assets/docs/extras/html/html-basics.pdf)
+    * [HTML DOM intro](/assets/docs/extras/html/html-dom-intro.pdf)
+    * [HTML5 intro](/assets/docs/extras/html5/html5-intro.pdf)
+    * [HTML5 extra](/assets/docs/extras/html5/html5-extra.pdf)
 
 ##### Week 2 - 5th September 2018
   * [course](/assets/docs/2018/comp436-week2.pdf)
   * extras
-    * [HTML intro](/assets/docs/extras/html-intro.pdf)
+    * [HTML intro](/assets/docs/extras/html/html-intro.pdf)
 
 ##### Week 1 - 29th August 2018
   * [course](/assets/docs/2018/comp436-week1.pdf)

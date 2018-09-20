@@ -73,14 +73,13 @@ There is no specific textbook for this course.
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
+  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
+-->
 
-##### Week 4 - 20th September 2017
+##### Week 4 - 19th September 2018
   * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
-  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
-
--->
 
 ##### Week 3 - 12th September 2018
   * [MDN - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
