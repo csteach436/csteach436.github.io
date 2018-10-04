@@ -63,18 +63,19 @@ There is no specific textbook for this course.
   * N/A
 
 ##### Week 6 - 4th October 2017
+  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - OWL](https://www.w3.org/OWL/)
   * [W3C - RDF](https://www.w3.org/RDF/)
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [Xalan Project](https://xalan.apache.org/)
 
-##### Week 5 - 27th September 2017
+-->
+
+##### Week 6 - 3rd October 2018
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
-  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
--->
 
 ##### Week 5 - 26th September 2018
   * N/A

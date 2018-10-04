@@ -46,12 +46,15 @@ This material will be updated on a weekly basis.
 ##### Week 8 - 18th October 2017
   * N/A
 
-##### Week 6 - 4th October 2017
-  * [course](/assets/docs/2017/Comp436-week6.pdf)
-
-##### Week 5 - 27th September 2017
-  * [course](/assets/docs/2017/Comp436-week5.pdf)
 -->
+
+##### Week 6 - 3rd October 2018
+  * [course](/assets/docs/2018/comp436-week6.pdf)
+  * extras - css
+    * [CSS3 - Grid](/assets/docs/extras/css/css-grid.pdf)
+    * [MDN - Basic concepts of grid layout](/assets/docs/extras/css/mdn-css-grid-basics.pdf)
+  * extras - Design
+    * [Design and Interface](/assets/docs/extras/design/design-interface-intro.pdf)
 
 ##### Week 5 - 26th September 2018
   * N/A
