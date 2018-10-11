@@ -45,8 +45,15 @@ This material will be updated on a weekly basis.
 
 ##### Week 8 - 18th October 2017
   * N/A
+  * extras - Design
+    * [Design our app](/assets/docs/extras/design/design-our-app.pdf)
 
 -->
+
+##### Week 7 - 10th October 2018
+  * [course](/assets/docs/2018/comp436-week6.pdf)
+  * extras - JS
+    * [JS - Intro](/assets/docs/extras/js/js-intro.pdf)
 
 ##### Week 6 - 3rd October 2018
   * [course](/assets/docs/2018/comp436-week6.pdf)

@@ -104,13 +104,6 @@ Enjoy your week.
   * [Source - Week 10](https://github.com/csteach436/source/tree/master/week10)
 * Please send me a copy of your group's completed class exercises from this week's course notes
   * push to a directory on your group's GitHub account
-* Please contribute to this week's class discussion on Slack, **#discussion-week10**, for the following XML-based project, [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
-  * please consider the general structure of this project
-  * how does it present its textual documents?
-  * which site features do you like and dislike? why?
-  * how do they use filters, sort, and search to help present their project material?
-  * how do they combine their material within the structure of the project? i.e. textual documents (transcriptions) and the accompanying images
-  * add any other thoughts or comments on this project...
 
 Any questions, please let me know.
 
@@ -134,52 +127,25 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 8 - 18th October 2017
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [1 - Group A](https://goo.gl/forms/Obq11LW60LDZ5C8Q2)
-  * [2 - Group C](https://goo.gl/forms/GMEOmoPImk90dlLY2)
-  * [3 - Group D](https://goo.gl/forms/Z636WcbWjOtfd1hG2)
-  * [4 - Group E](https://goo.gl/forms/ywitYA0prZGTKxgl1)
-  * [5 - Group F](https://goo.gl/forms/okAWCy1BJTR4PUVv1)
-* Complete these peer review forms by **Wednesday 25th October 2017** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
-* Please add your DEV week presentation files, notes, &c. to the following board on Trello,
-  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/3NqdVhUk/week-8-dev-week-presentation-files)
-  * Please add these files as soon as possible, and by **Wednesday 25th October 2017** at the latest
-  * instructions are included as a list on the above board
-* Please share your completed DEV Week code, and any associated files or data, with myself
-  * code &c. should be pushed to your group's repository on GitHub
-  * please share these files by **Wednesday 25th October 2017** at the latest
-* Complete the following Trello board,
-  * [Week 8 - DEV Week Contributions](https://trello.com/b/aAOL5p9R/week-8-dev-week-contributions)
-  * this board is **important** - it will help to establish member contributions for the DEV week project
-  * please complete this requirement by **Wednesday 25th October 2017** at the latest
+-->
+
+##### Week 7 - 10th October 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - JS
+    * [JS - Intro](/assets/docs/extras/js/js-intro.pdf)
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 7](https://github.com/csteach436/source/tree/master/week7)
+* Please contribute to this week's class discussion on Slack, **#discussion-week7**, for the following XML-based project, [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
+  * please consider the general structure of this project
+  * how does it present its textual documents?
+  * which site features do you like and dislike? why?
+  * how do they use filters, sort, and search to help present their project material?
+  * how do they combine their material within the structure of the project? i.e. textual documents (transcriptions) and the accompanying images
+  * add any other thoughts or comments on this project...
 
 Any questions, please let me know.
 
 Enjoy your week.
-
-##### Week 6 - 4th October 2017
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 6](https://github.com/csteach436/source/tree/master/week6)
-* Please send me a copy of your group's completed class exercises from this week's course notes
-  * push to a directory on your group's GitHub account
-* Please ensure all class exercises for your group are now up to date
-  * push any outstanding copies of class exercises to your group's GitHub account
-* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 3, 4, and 5 of this week's class [notes](/assets/docs/2017/Comp436-week6.pdf)
-  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
-* Please add updates on your group's project development to the course's Trello group,
-  * [Week 6 - DEV Week](https://trello.com/b/S85UuzAN/week-6-dev-week)
-  * I've added instructions on this board.
-
-**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
-
-Enjoy your DEV Week and mid-semester break.
-
--->
 
 ##### Week 6 - 3rd October 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

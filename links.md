@@ -63,12 +63,11 @@ Links will be added during the course...
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - OWL](https://www.w3.org/OWL/)
   * [W3C - RDF](https://www.w3.org/RDF/)
+  * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
 
 <!--
-
-  * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
   * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
   * [Xalan Project](https://xalan.apache.org/)
@@ -91,6 +90,9 @@ Links will be added during the course...
   * [Atom Editor](https://atom.io/)
   * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
+  * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
+  * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
+    * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
   * [Sublime Text](https://www.sublimetext.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
 
