@@ -56,11 +56,8 @@ There is no specific textbook for this course.
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
   * [XPath Version 2](www.w3.org/TR/xpath20/)
 
-##### Week 9 - 25th October 2017
+##### Week 8 - 17th October 2018
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
-
-##### Week 8 - 18th October 2017
-  * N/A
 
 -->
 
