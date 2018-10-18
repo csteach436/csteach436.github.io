@@ -108,26 +108,21 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 9 - 25th October 2017
-* Review this week's [notes and material](/notes), which includes the class notes
+##### Week 8 - 17th October 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - Design
+    * [Design our app](/assets/docs/extras/design/design-our-app.pdf)
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 9](https://github.com/csteach436/source/tree/master/week9)
-* Please send me a copy of your group's completed class exercises from this week's course notes
-  * push to a directory on your group's GitHub account
-* Prepare for a quiz, which is scheduled for the end of next week's class
-  * quiz will include material from the course, class, and extra notes for weeks 1 to 9 inclusive
-  * quiz will be approximately 45 minutes in length
-  * questions will be multiple choice
-  * please bring your laptop or other internet connected device to class
-  * this quiz uses an online Google Form
-    * **NB:** you'll need a Google account to register for the quiz
+  * [Source - Week 8](https://github.com/csteach436/source/tree/master/week8)
+* Please add updates on your group's project development to the course's Trello group,
+  * [Week 8 - DEV Week prep](https://trello.com/b/OrBB6NYk/week-8-dev-week-prep)
+  * I've added instructions on this board.
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 7 - 10th October 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

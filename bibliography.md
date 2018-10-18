@@ -55,14 +55,15 @@ There is no specific textbook for this course.
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
   * [XPath Version 2](www.w3.org/TR/xpath20/)
-
-##### Week 8 - 17th October 2018
-  * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
-
 -->
 
-##### Week 7 - 10th October 2018
+##### Week 8 - 17th October 2018
+  * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
   * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
+  * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
+  * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
+
+##### Week 7 - 10th October 2018
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - OWL](https://www.w3.org/OWL/)
   * [W3C - RDF](https://www.w3.org/RDF/)

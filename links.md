@@ -36,6 +36,7 @@ Links will be added during the course...
 
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
+  * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
 
 #### Documentation & Guides
 
@@ -45,6 +46,8 @@ Links will be added during the course...
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
+  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
 
 <!--
   * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
