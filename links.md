@@ -69,10 +69,10 @@ Links will be added during the course...
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
+  * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
 
 <!--
-  * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
   * [Xalan Project](https://xalan.apache.org/)
 -->
 

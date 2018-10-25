@@ -110,10 +110,24 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 9 - 24th October 2018
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 9](https://github.com/csteach436/source/tree/master/week9)
+* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2018/comp436-week9.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment3) section of this site
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 8 - 17th October 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - Design
     * [Design our app](/assets/docs/extras/design/design-our-app.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 8](https://github.com/csteach436/source/tree/master/week8)
 * Please add updates on your group's project development to the course's Trello group,
@@ -128,6 +142,7 @@ Enjoy your week.
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - JS
     * [JS - Intro](/assets/docs/extras/js/js-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 7](https://github.com/csteach436/source/tree/master/week7)
 * Please contribute to this week's class discussion on Slack, **#discussion-week7**, for the following XML-based project, [Mark Twain Project Online](http://www.marktwainproject.org/homepage.html)
@@ -149,6 +164,7 @@ Enjoy your week.
     * [MDN - Basic concepts of grid layout](/assets/docs/extras/css/mdn-css-grid-basics.pdf)
   * extras - Design
     * [Design and Interface](/assets/docs/extras/design/design-interface-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 6](https://github.com/csteach436/source/tree/master/week6)
 * Please add the following examples to [Week 6 - Markup Examples](https://trello.com/b/NaAN1stM/week-6-markup-examples) board on Trello,
@@ -197,6 +213,7 @@ Enjoy your week.
     * [CSS HTML5](/assets/docs/extras/css/css-html5.pdf)
   * extras - Design
     * [Mockups](/assets/docs/extras/design/design-mockups.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach436/source/tree/master/week4)
 * Please prepare your first presentation and demo for the start of next week's class
@@ -215,6 +232,7 @@ Enjoy your week.
     * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
     * [HTML5 intro](/assets/docs/extras/html5-intro.pdf)
     * [HTML5 extra](/assets/docs/extras/html5-extra.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 3](https://github.com/csteach436/source/tree/master/week%203)
 * Please add the following details to the [Week 3 - Project Material](https://trello.com/b/Wl90ChvA/week-3-project-material) board on Trello,
@@ -236,6 +254,7 @@ Enjoy your week.
 
 * Review this week's [notes and material](/notes), which includes the class notes and the extra documents
   * [HTML intro](/assets/docs/extras/html-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
 * Review the HTML code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 2](https://github.com/csteach436/source/tree/master/week%202)
 * Please ensure you've updated your project details and idea &c. on the following board,

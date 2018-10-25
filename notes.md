@@ -39,10 +39,10 @@ This material will be updated on a weekly basis.
 
 ##### Week 10 - 1st November 2017
   * [course](/assets/docs/2017/Comp436-week10.pdf)
-
-##### Week 9 - 25th October 2017
-  * [course](/assets/docs/2017/Comp436-week9.pdf)
 -->
+
+##### Week 9 - 24th October 2018
+  * [course](/assets/docs/2018/comp436-week9.pdf)
 
 ##### Week 8 - 17th October 2018
   * [course](/assets/docs/2018/comp436-week8.pdf)
