@@ -110,6 +110,31 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 10 - 31st October 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 10](https://github.com/csteach436/source/tree/master/week10)
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Café](https://goo.gl/forms/A6IM388TKzyvNQgk2)
+  * [Group 2 - Trading App](https://goo.gl/forms/9MZinSlnVb7ovMGh2)
+  * [Group 3 - TripMate](https://goo.gl/forms/CRk3jHCO0jZ3ArKJ2)
+  * [Group 4 - JESD Trucking](https://goo.gl/forms/Rh4ktXivryHUZf3f2)
+  * [Group 5 - Synth Display](https://goo.gl/forms/snooHiwwx6kVLsFP2)
+  <!-- * [Group 6 - HCI Digital Archive](https://goo.gl/forms/vkcYZCpylLFjR3Wz1) -->
+* Complete these peer review forms by **Wednesday 7th November 2018** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/ZRwRzL7c/week-10-presentation-dev-files)
+  * Please add these files as soon as possible, and by **Wednesday 7th November 2018** at the latest
+  * instructions are included as a list on the above board
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 9 - 24th October 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
@@ -179,7 +204,7 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 5 - 26th September 2018
+##### Week 5 - 26th September 2018
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
   * [Group 1 - HCI Digital Archive](https://goo.gl/forms/2eyh0q06XvtNnpWl2)
