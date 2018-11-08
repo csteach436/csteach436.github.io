@@ -41,6 +41,11 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/Comp436-week10.pdf)
 -->
 
+##### Week 11 - 7th November 2018
+  * [course](/assets/docs/2018/comp436-week11.pdf)
+  * extras - Design
+    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf) 
+
 ##### Week 10 - 31st October 2018
   * [course](/assets/docs/2018/comp436-week10.pdf)
 

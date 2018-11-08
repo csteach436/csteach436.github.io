@@ -110,6 +110,27 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 11 - 7th November 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - Design
+    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 11](https://github.com/csteach436/source/tree/master/week11)
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 6 - HCI Digital Archive](https://goo.gl/forms/vkcYZCpylLFjR3Wz1)
+  * [Group 7 - Galbraith Fence](https://goo.gl/forms/nv1W0mWBoknkYCBJ3)
+* Complete these peer review forms by **Wednesday 14th November 2018** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please send me a copy of your group's completed class exercises from this week's course notes
+  * either push to a directory on your group's GitHub account OR
+  * send as an attachment to a private message on Slack
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 10 - 31st October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes
@@ -122,7 +143,6 @@ Enjoy your week.
   * [Group 3 - TripMate](https://goo.gl/forms/CRk3jHCO0jZ3ArKJ2)
   * [Group 4 - JESD Trucking](https://goo.gl/forms/Rh4ktXivryHUZf3f2)
   * [Group 5 - Synth Display](https://goo.gl/forms/snooHiwwx6kVLsFP2)
-  <!-- * [Group 6 - HCI Digital Archive](https://goo.gl/forms/vkcYZCpylLFjR3Wz1) -->
 * Complete these peer review forms by **Wednesday 7th November 2018** at the latest
   * please complete these forms individually, and **NOT** as a project group
 * You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
