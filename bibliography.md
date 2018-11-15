@@ -34,12 +34,8 @@ There is no specific textbook for this course.
 ##### Week 13 - 22nd November 2017
   * N/A
 
-##### Week 12 - 15th November 2017
-  * [TEI](http://www.tei-c.org/index.xml)
-  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
 
-##### Week 11 - 8th November 2017
-  * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
+* [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
   * Dempsey, L and R Heery. *Metadata: A current view of practice and issues.* Journal of Documentation, 54(2). PP.145–172. 1998.
   * [Dublin Core](http://dublincore.org/)
   * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
@@ -52,6 +48,14 @@ There is no specific textbook for this course.
   * [Steve Museum Project](http://storytelling.concordia.ca/resources/steve-museum)
 
 -->
+
+##### Week 12 - 14th November 2018
+  * [TEI](http://www.tei-c.org/index.xml)
+  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
+    * [representation of primary sources](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html)
+    * [facsimile](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html)
+    * [surface](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surface.html)
+    * [zone](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-zone.html)
 
 ##### Week 11 - 7th November 2018
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)

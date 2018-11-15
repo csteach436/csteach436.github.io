@@ -78,15 +78,23 @@ Any questions, please let me know.
 Enjoy your week.
 
 ##### Week 11 - 8th November 2017
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 11](https://github.com/csteach436/source/tree/master/week11)
+
 * Please send me a copy of your group's completed class exercises from this week's course notes
   * push to a directory on your group's GitHub account
 * Please prepare your example XML and XSLT class exercises ready for a brief presentation
   * this will be a brief *show and tell* demo of the work completed in class
   * demo will be at the start of the next class
-* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the following TEI-based project, [Folger Digital Texts](http://www.folgerdigitaltexts.org/)
+
+
+-->
+
+##### Week 12 - 14th November 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review the TEI encoded examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 12](https://github.com/csteach436/source/tree/master/week12)
+* Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the following TEI-based project, [Folger Digital Texts](http://www.folgerdigitaltexts.org/)
   * please consider the project's general structure and presentation of rendered texts
   * how does this project use XML and the encoded texts?
   * how does the project use TEI?
@@ -96,19 +104,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week.
-
-##### Week 10 - 1st November 2017
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 10](https://github.com/csteach436/source/tree/master/week10)
-* Please send me a copy of your group's completed class exercises from this week's course notes
-  * push to a directory on your group's GitHub account
-
-Any questions, please let me know.
-
-Enjoy your week.
--->
+Enjoy your week, and Thanksgiving break.
 
 ##### Week 11 - 7th November 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

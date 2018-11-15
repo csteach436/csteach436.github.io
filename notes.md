@@ -31,15 +31,10 @@ This material will be updated on a weekly basis.
 ##### Week 13 - 22nd November 2017
   * N/A
 
-##### Week 12 - 15th November 2017
-  * [course](/assets/docs/2017/Comp436-week12.pdf)
-
-##### Week 11 - 8th November 2017
-  * [course](/assets/docs/2017/Comp436-week11.pdf)
-
-##### Week 10 - 1st November 2017
-  * [course](/assets/docs/2017/Comp436-week10.pdf)
 -->
+
+##### Week 12 - 14th November 2018
+  * [course](/assets/docs/2018/comp436-week12.pdf)
 
 ##### Week 11 - 7th November 2018
   * [course](/assets/docs/2018/comp436-week11.pdf)
