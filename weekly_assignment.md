@@ -54,9 +54,6 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 13 - 22nd November 2017
-* N/A
-
 ##### Week 12 - 15th November 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the TEI XML code examples posted to the **source** repository on the course's GitHub account,
@@ -77,16 +74,29 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 11 - 8th November 2017
-
-* Please send me a copy of your group's completed class exercises from this week's course notes
-  * push to a directory on your group's GitHub account
-* Please prepare your example XML and XSLT class exercises ready for a brief presentation
-  * this will be a brief *show and tell* demo of the work completed in class
-  * demo will be at the start of the next class
-
-
 -->
+
+##### Week 14 - 28th November 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra document,
+  * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
+* Review the TEI XML code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 12](https://github.com/csteach436/source/tree/master/week12)
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
+* Please prepare your group's project presentation for Wednesday 5th December 2018
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be between 10 and 15 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Wednesday 5th December 2018.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+##### Week 13 - 21st November 2018
+
+* N/A
 
 ##### Week 12 - 14th November 2018
 

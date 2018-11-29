@@ -22,16 +22,15 @@ This material will be updated on a weekly basis.
 ##### Week 15 - 6th December 2017
   * extras
     * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2017.pdf)
+-->
 
-##### Week 14 - 29th November 2017
+##### Week 14 - 28th November 2018
   * [course](/assets/docs/2017/Comp436-week14.pdf)
   * extras
-    * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2017.pdf)
+    * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
 
-##### Week 13 - 22nd November 2017
+##### Week 13 - 21st November 2018
   * N/A
-
--->
 
 ##### Week 12 - 14th November 2018
   * [course](/assets/docs/2018/comp436-week12.pdf)
