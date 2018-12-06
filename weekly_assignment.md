@@ -76,6 +76,22 @@ Enjoy your week.
 
 -->
 
+##### Week 15 - 5th December 2018
+
+* Please complete your group's final project report
+  * suggested report length approximately 10 pages
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
+* Report must be submitted by 4.15pm on Wednesday 12th December 2018
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP436 - Final Report)
+* Please share with me a copy of your group's final code. This may include the following options,
+  * GitHub
+  * OR as an attachment to a private message on Slack
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 14 - 28th November 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra document,
   * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
