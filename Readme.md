@@ -1,3 +1,3 @@
 ### GitHub Pages
 
-This is the repository for the *csteach436* GitHub pages site, Fall 2019.
+This is the repository for the *csteach436* GitHub pages site.
