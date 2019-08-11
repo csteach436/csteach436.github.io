@@ -9,7 +9,7 @@ categories:
 
 tags: bibliography
 published: true
-summary: course bibliography and references for COMP 436
+summary: course bibliography and references for COMP 336/436
 ---
 
 The course 'bibliography & references' will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
@@ -20,6 +20,7 @@ There is no specific textbook for this course.
 
 ***
 
+<!--
 ##### Week 15 - 5th December 2018
   * N/A
 
@@ -103,3 +104,4 @@ There is no specific textbook for this course.
 ##### Week 1 - 29th August 2018
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
+-->

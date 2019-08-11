@@ -9,7 +9,7 @@ categories:
 
 tags: coursework
 published: true
-summary: coursework for COMP 436
+summary: coursework for COMP 336/436
 ---
 
 Course assessment will continue throughout the semester.
@@ -31,11 +31,11 @@ If you have any questions on the following assessments, please [contact](/contac
       * where and why did you update the project?
       * benefits of updates
       * ...
-  * groups will be organised at the start of the semester
+  * work may be conducted individually or in groups
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-* [Final Report Outline - PDF Document](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp436-final-report-outline-2019.pdf)
 
 #### Assessed coursework will include the following primary categories:
 
@@ -126,13 +126,13 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * project outline and mockup
-  * due Wednesday 26th September 2018 @ 4.15pm
+  * due Wednesday 25th September 2019 @ 4.15pm
 * DEV week demo
-  * due Wednesday 31st October 2018 @ 4.15pm
+  * due Wednesday 30th October 2019 @ 4.15pm
 * final team demo
-  * due Wednesday 5th December 2018 @ 4.15pm
+  * due Wednesday 4th December 2019 @ 4.15pm
 * final team report
-  * due Wednesday 12th December 2018 @ 4.15pm
+  * due Wednesday 11th December 2019 @ 4.15pm
 
 #### Grading
 

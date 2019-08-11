@@ -1,5 +1,5 @@
 ---
-title: COMP 436
+title: COMP 336/436
 layout: default-vertical
 
 categories:
@@ -8,10 +8,10 @@ categories:
 
 tags: general site home
 published: true
-summary: Markup Languages, Fall 2018
+summary: Markup Languages, Fall 2019
 ---
 
-Welcome to the course website for COMP 436, *Markup Languages*.
+Welcome to the course website for COMP 336/436, *Markup Languages*.
 
 This course is offered by the [Department of Computer Science](http://www.luc.edu/cs/) at [Loyola University Chicago](http://www.luc.edu).
 

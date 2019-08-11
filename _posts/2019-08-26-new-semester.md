@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: general news
-year: 2018
+year: 2019
 month: 08
-day: 28
+day: 26
 published: true
-summary: welcome to the new Fall semester, 2018
+summary: welcome to the new Fall semester, 2019
 menu: new-semester
 ---
 
-Welcome to the new semester, and the COMP 436 course in *Markup Languages*.
+Welcome to the new semester, and the COMP 336/436 course in *Markup Languages*.
 
 Please ensure that you check this website each week for new posts, notes, and material.
 

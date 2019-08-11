@@ -9,7 +9,7 @@ categories:
 
 tags: coursework weekly
 published: true
-summary: weekly assignment for COMP 436
+summary: weekly assignment for COMP 336/436
 ---
 
 #### Assignment submission
@@ -73,8 +73,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 15 - 5th December 2018
 
@@ -382,3 +380,4 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 Any questions, please let me know.
 
 Enjoy your week.
+-->

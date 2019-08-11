@@ -9,10 +9,10 @@ categories:
 
 tags: assignments coursework
 published: true
-summary: assignments and coursework for COMP 436
+summary: assignments and coursework for COMP 336/436
 ---
 
-This page will be updated each week during the semester with assignments, coursework, quizzes...
+This page will be updated each week during the Fall semester with assignments, coursework, reading suggestions &c.
 
 #### Coursework Overview
 

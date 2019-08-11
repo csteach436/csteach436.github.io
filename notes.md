@@ -9,7 +9,7 @@ categories:
 
 tags: notes material
 published: true
-summary: course notes and material for COMP 436
+summary: course notes and material for COMP 336/436
 ---
 
 Course notes and material will be added to this page during the semester.
@@ -18,7 +18,7 @@ This material will be updated on a weekly basis.
 
 ***
 
-
+<!--
 ##### Week 15 - 5th December 2018
   * extras
     * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
@@ -88,3 +88,4 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp436-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
+-->
