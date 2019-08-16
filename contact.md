@@ -18,7 +18,7 @@ For course enquiries, please use one of the following contact options
 #### Lecturer
 
 * Name: Dr Nick Hayward
-* Office: [Doyle 307 (LSC)](http://www.luc.edu/media/lucedu/lsc.pdf)
+<!-- * Office: [Doyle 307 (LSC)](http://www.luc.edu/media/lucedu/lsc.pdf) -->
 * Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 336/436 Enquiry)
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
