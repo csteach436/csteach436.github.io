@@ -100,8 +100,8 @@ There is no specific textbook for this course.
   * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
   * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+-->
 
 ##### Week 1 - 29th August 2018
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
--->

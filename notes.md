@@ -83,9 +83,9 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp436-week2.pdf)
   * extras
     * [HTML intro](/assets/docs/extras/html/html-intro.pdf)
+-->
 
-##### Week 1 - 29th August 2018
-  * [course](/assets/docs/2018/comp436-week1.pdf)
+##### Week 1 - 28th August 2019
+  * [course](/assets/docs/2019/comp436-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
--->

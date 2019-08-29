@@ -332,26 +332,26 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
+##### Week 1 - 28th August 2019
 
-##### Week 1 - 29th August 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes and the extra document
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra document
   * [Git basics](/assets/docs/extras/git-basics.pdf)
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/YOu07xPZ)
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/yUi9IbSZ/week-1-project-details)
   * project name
   * the full name of each team member
   * any ideas you are currently considering for this project work
   * level of experience with markup languages
     * e.g. HTML5, XML...
   * preferred programming language
-    * e.g. Python, C#...
+    * e.g. Python, C, C#...
 
 Please read the instructions available on the board, and then create a new list for your project group.
 
 The course's Trello group is available at the following URL,
 
-* [COMP 436 - Fall 2018 @ LUC](https://trello.com/csteach436)
+* [COMP 336/436 - Fall 2019 @ LUC](https://trello.com/csteach436)
   * https://trello.com/csteach436
 
 **n.b.** I'll send an invite for this Trello group to your registered LUC email address. If you do not currently have a Trello username, you'll need to register at the following URL,
@@ -359,11 +359,9 @@ The course's Trello group is available at the following URL,
 * Trello - [Signup](https://trello.com/signup)
 
 ##### Slack group
-I've also created a Slack group for this course, which is called **COMP 436 - Fall 2018 @ LUC**.
+I've also created a Slack group for this course, which is called **COMP 336/436 - Fall 2019 @ LUC**.
 
-Invite link for this group is as follows,
-
-  * [COMP 436 - Fall 2018 @ LUC](https://join.slack.com/t/csteach436-2018/shared_invite/enQtNDI1MDQ0ODI2NDU1LTM4MTY2NTc0OTI1MGY3YmZmZmQ2NGM2ODI3NTRlNGZjMzAwNmE1NzU0NDRmMDQwN2FiNTJhMjljYzg2YmNlMjU)
+I'll send an invite to this group to each student's LUC email address.
 
 Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
 
@@ -380,4 +378,3 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 Any questions, please let me know.
 
 Enjoy your week.
--->

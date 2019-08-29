@@ -24,7 +24,6 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Links will be added during the course...
 
-<!--
 #### Archives & Resources
 
   * [British Library](https://www.bl.uk/)
@@ -32,13 +31,13 @@ Links will be added during the course...
   * [Internet Archive](https://archive.org/)
   * [Library of Congress](https://www.loc.gov/)
 
-#### Articles & Papers
+<!-- #### Articles & Papers
 
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
-  * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
+  * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/) -->
 
-#### Documentation & Guides
+<!-- #### Documentation & Guides
 
   * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
   * [Dublin Core](http://dublincore.org/)
@@ -56,9 +55,9 @@ Links will be added during the course...
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
   * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
   * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
-  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
+  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/) -->
 
-##### W3C
+<!-- ##### W3C
 
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - OWL](https://www.w3.org/OWL/)
@@ -68,7 +67,7 @@ Links will be added during the course...
   * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
   * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
-  * [Xalan Project](https://xalan.apache.org/)
+  * [Xalan Project](https://xalan.apache.org/) -->
 
 #### Projects & Examples
 
@@ -78,11 +77,11 @@ Links will be added during the course...
     * [Project site](http://www.maloryproject.com)
   * [Papers Past](https://paperspast.natlib.govt.nz/)
   * [Text Encoding Initiative - TEI](http://www.tei-c.org/index.xml)
-  * [TEI Project - intro](http://www.tei-c.org/About/history.xml)
+  <!-- * [TEI Project - intro](http://www.tei-c.org/About/history.xml) -->
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
 
-#### Useful Tools & Reference
+<!-- #### Useful Tools & Reference
 
   * [Atom Editor](https://atom.io/)
   * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
@@ -91,14 +90,13 @@ Links will be added during the course...
   * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
     * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
   * [Sublime Text](https://www.sublimetext.com/)
-  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Visual Studio Code](https://code.visualstudio.com/) -->
 
-#### Various
+<!-- #### Various
 
   * [last.fm](https://www.last.fm/)
-  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)
+  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages) -->
 
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
--->
