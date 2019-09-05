@@ -314,25 +314,26 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 2 - 5th September 2018
+##### Week 2 - 4th September 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the extra documents
-  * [HTML intro](/assets/docs/extras/html-intro.pdf)
+  * [HTML basics](/assets/docs/extras/html/html-basics.pdf)
+  * [HTML intro](/assets/docs/extras/html/html-intro.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the HTML code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 2](https://github.com/csteach436/source/tree/master/week%202)
+  * [Source - Week 2](https://github.com/csteach436/source/tree/master/week2)
 * Please ensure you've updated your project details and idea &c. on the following board,
-  * [Week 1 - Project Details](https://trello.com/b/YOu07xPZ)
+  * [Week 1 - Project Details](https://trello.com/b/yUi9IbSZ/week-1-project-details)
 * Please create a GitHub account for your project group
   * create a new repository for `source` code & any other project material or notes
   * add the GitHub details for your project to the appropriate group list on Trello,
-    * [Week 1 - Project Details](https://trello.com/b/YOu07xPZ)
+    * [Week 1 - Project Details](https://trello.com/b/yUi9IbSZ/week-1-project-details)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 1 - 28th August 2019
 

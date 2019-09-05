@@ -31,25 +31,27 @@ Links will be added during the course...
   * [Internet Archive](https://archive.org/)
   * [Library of Congress](https://www.loc.gov/)
 
-<!-- #### Articles & Papers
+#### Articles & Papers
 
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
-  * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/) -->
+  
+  <!-- * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/) -->
 
-<!-- #### Documentation & Guides
+#### Documentation & Guides
 
-  * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
-  * [Dublin Core](http://dublincore.org/)
-  * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
-  * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
-  * [Learning Objects Metadata](https://en.wikipedia.org/wiki/Learning_object_metadata)
   * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
   * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+
+  <!-- * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
+  * [Dublin Core](http://dublincore.org/)
+  * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
+  * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
+  * [Learning Objects Metadata](https://en.wikipedia.org/wiki/Learning_object_metadata)
   * [Open Archival Information Systems](https://www.oclc.org/research/publications/library/2000/lavoie-oais.html)
   * [PREMIS](https://www.loc.gov/standards/premis/)
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
@@ -81,16 +83,18 @@ Links will be added during the course...
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
 
-<!-- #### Useful Tools & Reference
+#### Useful Tools & Reference
 
   * [Atom Editor](https://atom.io/)
-  * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
+  * [Sublime Text](https://www.sublimetext.com/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+
+
+  <!-- * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
   * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
-    * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
-  * [Sublime Text](https://www.sublimetext.com/)
-  * [Visual Studio Code](https://code.visualstudio.com/) -->
+    * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) -->
 
 <!-- #### Various
 

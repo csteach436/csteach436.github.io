@@ -74,16 +74,16 @@ This material will be updated on a weekly basis.
 ##### Week 3 - 12th September 2018
   * [course](/assets/docs/2018/comp436-week3.pdf)
   * extras
-    * [HTML basics](/assets/docs/extras/html/html-basics.pdf)
     * [HTML DOM intro](/assets/docs/extras/html/html-dom-intro.pdf)
     * [HTML5 intro](/assets/docs/extras/html5/html5-intro.pdf)
     * [HTML5 extra](/assets/docs/extras/html5/html5-extra.pdf)
-
-##### Week 2 - 5th September 2018
-  * [course](/assets/docs/2018/comp436-week2.pdf)
-  * extras
-    * [HTML intro](/assets/docs/extras/html/html-intro.pdf)
 -->
+
+##### Week 2 - 4th September 2019
+  * [course](/assets/docs/2019/comp436-week2.pdf)
+  * extras
+    * [HTML basics](/assets/docs/extras/html/html-basics.pdf)
+    * [HTML intro](/assets/docs/extras/html/html-intro.pdf)
 
 ##### Week 1 - 28th August 2019
   * [course](/assets/docs/2019/comp436-week1.pdf)
