@@ -289,18 +289,19 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 3 - 12th September 2018
+##### Week 3 - 11th September 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra document,
   * extras
-    * [HTML basics](/assets/docs/extras/html-basics.pdf)
-    * [HTML DOM intro](/assets/docs/extras/html-dom-intro.pdf)
-    * [HTML5 intro](/assets/docs/extras/html5-intro.pdf)
-    * [HTML5 extra](/assets/docs/extras/html5-extra.pdf)
+    * [HTML basics](/assets/docs/extras/html/html-basics.pdf)
+    * [HTML DOM intro](/assets/docs/extras/html/html-dom-intro.pdf)
+    * [HTML5 intro](/assets/docs/extras/html5/html5-intro.pdf)
+    * [HTML5 extra](/assets/docs/extras/html5/html5-extra.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach436/source/tree/master/week%203)
-* Please add the following details to the [Week 3 - Project Material](https://trello.com/b/Wl90ChvA/week-3-project-material) board on Trello,
+  * [Source - Week 3](https://github.com/csteach436/source/tree/master/week3)
+* Please add the following details to the [Week 3 - Project Material](https://trello.com/b/14eOymsV/week-3-project-material) board on Trello,
   * any media collected and researched for your project
     * e.g. texts, video, audio...
   * metadata applicable to this material
@@ -314,7 +315,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 2 - 4th September 2019
 

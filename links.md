@@ -46,6 +46,8 @@ Links will be added during the course...
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
+  * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
 
   <!-- * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
   * [Dublin Core](http://dublincore.org/)
@@ -65,11 +67,22 @@ Links will be added during the course...
   * [W3C - OWL](https://www.w3.org/OWL/)
   * [W3C - RDF](https://www.w3.org/RDF/)
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
-  * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
   * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
-  * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
   * [Xalan Project](https://xalan.apache.org/) -->
+
+#### Mockup and Prototype Tools - a few examples
+
+* [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
+* [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
+* [Bootstrap](http://getbootstrap.com/)
+* [Flinto](https://www.flinto.com/)
+* [Framer](http://framerjs.com/)
+* [Google Drawings](http://goo.gl/qPRCfG)
+* [Mirror.js](http://jimulabs.com/mirrorjs-preview/) (useful for Android)
+* [Proto.io](https://proto.io/)
+* [Sketch3](http://bohemiancoding.com/sketch/)
+* [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
 #### Projects & Examples
 
@@ -86,12 +99,13 @@ Links will be added during the course...
 #### Useful Tools & Reference
 
   * [Atom Editor](https://atom.io/)
+  * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
+  * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [Sublime Text](https://www.sublimetext.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
 
 
-  <!-- * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
-  * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
+  <!--
   * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
   * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
     * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) -->

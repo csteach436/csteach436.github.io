@@ -70,14 +70,14 @@ This material will be updated on a weekly basis.
     * [CSS HTML5](/assets/docs/extras/css/css-html5.pdf)
   * extras - Design
     * [Mockups](/assets/docs/extras/design/design-mockups.pdf)
+-->
 
-##### Week 3 - 12th September 2018
-  * [course](/assets/docs/2018/comp436-week3.pdf)
+##### Week 3 - 11th September 2019
+  * [course](/assets/docs/2019/comp436-week3.pdf)
   * extras
     * [HTML DOM intro](/assets/docs/extras/html/html-dom-intro.pdf)
     * [HTML5 intro](/assets/docs/extras/html5/html5-intro.pdf)
     * [HTML5 extra](/assets/docs/extras/html5/html5-extra.pdf)
--->
 
 ##### Week 2 - 4th September 2019
   * [course](/assets/docs/2019/comp436-week2.pdf)
