@@ -59,13 +59,13 @@ Links will be added during the course...
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
   * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
   * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
-  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)  -->
+  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/) -->
 
 ##### W3C
 
 * [W3C - OWL](https://www.w3.org/OWL/)
 * [W3C - RDF](https://www.w3.org/RDF/)
-* 
+
 <!-- 
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
@@ -107,18 +107,14 @@ Links will be added during the course...
   * [Visual Studio Code](https://code.visualstudio.com/)
 
 
-  <!--
-  * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
+  <!-- * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
   * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
-    * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) 
-  -->
+    * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)  -->
 
-<!-- 
-#### Various
+<!-- #### Various
 
   * [last.fm](https://www.last.fm/)
-  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages) 
-  -->
+  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)  -->
 
 ***
 
