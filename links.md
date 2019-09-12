@@ -49,8 +49,7 @@ Links will be added during the course...
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
 
-  <!-- 
-	* [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
+	<!-- * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
   * [Dublin Core](http://dublincore.org/)
   * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
   * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
@@ -60,21 +59,19 @@ Links will be added during the course...
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
   * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
   * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
-  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/) 
-  -->
-
-<!-- 
+  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)  -->
 
 ##### W3C
 
+* [W3C - OWL](https://www.w3.org/OWL/)
+* [W3C - RDF](https://www.w3.org/RDF/)
+* 
+<!-- 
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
-  * [W3C - OWL](https://www.w3.org/OWL/)
-  * [W3C - RDF](https://www.w3.org/RDF/)
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
   * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
-  * [Xalan Project](https://xalan.apache.org/) 
-  -->
+  * [Xalan Project](https://xalan.apache.org/)  -->
 
 #### Mockup and Prototype Tools - a few examples
 
