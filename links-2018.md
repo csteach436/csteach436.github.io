@@ -35,6 +35,8 @@ Links will be added during the course...
 
   * Smith, Abby. *Why Digitize?* Washington, D.C.: Council on Library and Information Resources. 1999.
   * Unknown. "The Great Analog Versus Digital Debate". VoicePrint Online. 2004.
+  
+  <!-- * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/) -->
 
 #### Documentation & Guides
 
@@ -47,10 +49,29 @@ Links will be added during the course...
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
 
+	<!-- * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
+  * [Dublin Core](http://dublincore.org/)
+  * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
+  * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
+  * [Learning Objects Metadata](https://en.wikipedia.org/wiki/Learning_object_metadata)
+  * [Open Archival Information Systems](https://www.oclc.org/research/publications/library/2000/lavoie-oais.html)
+  * [PREMIS](https://www.loc.gov/standards/premis/)
+  * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
+  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
+  * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
+  * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/) -->
+
 ##### W3C
 
 * [W3C - OWL](https://www.w3.org/OWL/)
 * [W3C - RDF](https://www.w3.org/RDF/)
+
+<!-- 
+  * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
+  * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
+  * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
+  * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
+  * [Xalan Project](https://xalan.apache.org/)  -->
 
 #### Mockup and Prototype Tools - a few examples
 
@@ -73,7 +94,7 @@ Links will be added during the course...
     * [Project site](http://www.maloryproject.com)
   * [Papers Past](https://paperspast.natlib.govt.nz/)
   * [Text Encoding Initiative - TEI](http://www.tei-c.org/index.xml)
-  * [TEI Project - intro](http://www.tei-c.org/About/history.xml)
+  <!-- * [TEI Project - intro](http://www.tei-c.org/About/history.xml) -->
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
 
@@ -84,6 +105,16 @@ Links will be added during the course...
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [Sublime Text](https://www.sublimetext.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
+
+
+  <!-- * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
+  * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
+    * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)  -->
+
+<!-- #### Various
+
+  * [last.fm](https://www.last.fm/)
+  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages)  -->
 
 ***
 
