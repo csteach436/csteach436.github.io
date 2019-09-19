@@ -225,6 +225,8 @@ Enjoy your week.
 ##### Week 6 - 3rd October 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - css
+	  * [CSS box model](/assets/docs/extras/css/css-box-model.pdf)
+    * [CSS HTML5](/assets/docs/extras/css/css-html5.pdf)
     * [CSS3 - Grid](/assets/docs/extras/css/css-grid.pdf)
     * [MDN - Basic concepts of grid layout](/assets/docs/extras/css/mdn-css-grid-basics.pdf)
   * extras - Design
@@ -268,20 +270,19 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 4 - 19th September 2018
+##### Week 4 - 18th September 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra documents,
   * extras - CSS
     * [CSS intro](/assets/docs/extras/css/css-intro.pdf)
     * [CSS basics](/assets/docs/extras/css/css-basics.pdf)
-    * [CSS box model](/assets/docs/extras/css/css-box-model.pdf)
-    * [CSS HTML5](/assets/docs/extras/css/css-html5.pdf)
   * extras - Design
     * [Mockups](/assets/docs/extras/design/design-mockups.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the HTML and XML code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach436/source/tree/master/week4)
-* Please prepare your first presentation and demo for the start of next week's class
+* Please prepare your first presentation and demo for the start of next week's class, 25th September 2019 @ 4.15pm
   * further details may be found on the following pages,
     * [Course Website - Coursework](http://csteach436.github.io/coursework/#assessment2)
     * [Course Notes - Week 1 - Pages 9 & 10](http://csteach436.github.io/assets/docs/2018/comp436-week1.pdf)
@@ -289,7 +290,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 3 - 11th September 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra document,

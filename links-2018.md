@@ -108,8 +108,7 @@ Links will be added during the course...
 
 
   <!-- * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
-  * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
-    * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)  -->
+   -->
 
 <!-- #### Various
 

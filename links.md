@@ -81,7 +81,9 @@ Links will be added during the course...
 
   * [Atom Editor](https://atom.io/)
   * [eXistdb - XML data store](http://exist-db.org/exist/apps/homepage/index.html)
+  * [MDN - Setup a local test server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
+  * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
   * [Sublime Text](https://www.sublimetext.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
 
