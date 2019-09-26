@@ -245,32 +245,25 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 5 - 26th September 2018
+##### Week 5 - 25th September 2019
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - HCI Digital Archive](https://goo.gl/forms/2eyh0q06XvtNnpWl2)
-  * [Group 2 - Synth Display](https://goo.gl/forms/fvKg1VvIB1pZpxMj2)
-  * [Group 3 - JESD Trucking](https://goo.gl/forms/xFSj6MhxMLA4FCGr1)
-  * [Group 4 - TripMate](https://goo.gl/forms/i9BBnW6nwyiNQX3G2)
-  * [Group 5 - Trading App](https://goo.gl/forms/Wocc9KtXkh8urgyg1)
-  * [Group 6 - Café](https://goo.gl/forms/7RoCH4oU3Ua3jwXE2)
-* Complete these peer review forms by **Wednesday 3rd October 2018** at the latest
-  * please complete these forms individually, and **NOT** as a project group
+  * [Group 1 - Retail Web Services](https://forms.gle/vkA5ygBpd5idgGtaA)
+  * [Group 2 - IMR](https://forms.gle/7SogCa3ow3BGjHbp9)
+  * [Group 3 - Vino Viand 2.0](https://forms.gle/GqQg8HipGLEn2VAX9)
+  * [Group 4 - Digital Scanner Project](https://forms.gle/xejzdNBijqogx1Ex8)
+  * Please complete these peer review forms by **Wednesday 2nd October 2019** 
 * You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 5 - Presentation Files](https://trello.com/b/3LpOVtdC/week-5-presentation-files)
-  * Please add these files as soon as possible, and by **Wednesday 3rd October 2018** at the latest
+  * [Week 5 - Presentation Files](https://trello.com/b/h7LIPs1B/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Wednesday 2nd October 2019**
   * instructions are included as a list on the above board
-* Complete the following Trello board,
-  * [Week 5 - Project Contributions](https://trello.com/b/MYcCPirx/week-5-project-contributions)
-  * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Wednesday 3rd October 2018** at the latest
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 4 - 18th September 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra documents,

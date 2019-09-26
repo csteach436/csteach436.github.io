@@ -59,10 +59,10 @@ This material will be updated on a weekly basis.
     * [MDN - Basic concepts of grid layout](/assets/docs/extras/css/mdn-css-grid-basics.pdf)
   * extras - Design
     * [Design and Interface](/assets/docs/extras/design/design-interface-intro.pdf)
-
-##### Week 5 - 26th September 2018
-  * N/A
 -->
+
+##### Week 5 - 25th September 2019
+  * N/A - presentations
 
 ##### Week 4 - 18th September 2019
   * [course](/assets/docs/2019/comp436-week4.pdf)

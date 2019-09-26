@@ -78,10 +78,10 @@ There is no specific textbook for this course.
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
-
-##### Week 5 - 26th September 2018
-  * N/A
 -->
+
+##### Week 5 - 25th September 2019
+  * N/A - presentations
 
 ##### Week 4 - 18th September 2019
   * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
