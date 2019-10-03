@@ -73,12 +73,12 @@ There is no specific textbook for this course.
   * [W3C - RDF](https://www.w3.org/RDF/)
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [Xalan Project](https://xalan.apache.org/)
+-->
 
-##### Week 6 - 3rd October 2018
+##### Week 6 - 2nd October 2019
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
--->
 
 ##### Week 5 - 25th September 2019
   * N/A - presentations

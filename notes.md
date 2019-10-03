@@ -49,9 +49,10 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp436-week7.pdf)
   * extras - JS
     * [JS - Intro](/assets/docs/extras/js/js-intro.pdf)
+-->
 
-##### Week 6 - 3rd October 2018
-  * [course](/assets/docs/2018/comp436-week6.pdf)
+##### Week 6 - 2nd October 2019
+  * [course](/assets/docs/2019/comp436-week6.pdf)
   * extras - css
 	  * [CSS box model](/assets/docs/extras/css/css-box-model.pdf)
     * [CSS HTML5](/assets/docs/extras/css/css-html5.pdf)
@@ -59,7 +60,6 @@ This material will be updated on a weekly basis.
     * [MDN - Basic concepts of grid layout](/assets/docs/extras/css/mdn-css-grid-basics.pdf)
   * extras - Design
     * [Design and Interface](/assets/docs/extras/design/design-interface-intro.pdf)
--->
 
 ##### Week 5 - 25th September 2019
   * N/A - presentations

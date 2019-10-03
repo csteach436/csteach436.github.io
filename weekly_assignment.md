@@ -221,8 +221,9 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 6 - 3rd October 2018
+##### Week 6 - 2nd October 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - css
 	  * [CSS box model](/assets/docs/extras/css/css-box-model.pdf)
@@ -234,7 +235,7 @@ Enjoy your week.
 * Review this week's [bibliography](/bibliography) links and material
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 6](https://github.com/csteach436/source/tree/master/week6)
-* Please add the following examples to [Week 6 - Markup Examples](https://trello.com/b/NaAN1stM/week-6-markup-examples) board on Trello,
+* Please add the following examples to [Week 6 - Markup Examples](https://trello.com/b/Ydqkh06L/week-6-markup-examples) board on Trello,
   * start *marking up* documents using your project's preferred markup language
       * e.g. HTML5, XML...
   * documents should at least meet requirements for *well-formed*...
@@ -245,7 +246,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 5 - 25th September 2019
 
