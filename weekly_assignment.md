@@ -202,8 +202,9 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 7 - 10th October 2018
+##### Week 7 - 9th October 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - JS
     * [JS - Intro](/assets/docs/extras/js/js-intro.pdf)
@@ -221,7 +222,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 6 - 2nd October 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

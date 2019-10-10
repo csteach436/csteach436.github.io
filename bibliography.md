@@ -66,14 +66,14 @@ There is no specific textbook for this course.
   * [XMLNS - FOAF spec](http://xmlns.com/foaf/spec/)
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
   * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
+-->
 
-##### Week 7 - 10th October 2018
+##### Week 7 - 9th October 2019
   * [W3C - GRDDL](https://www.w3.org/TR/grddl/)
   * [W3C - OWL](https://www.w3.org/OWL/)
   * [W3C - RDF](https://www.w3.org/RDF/)
   * [W3C - SPARQL](https://www.w3.org/TR/rdf-sparql-query/)
   * [Xalan Project](https://xalan.apache.org/)
--->
 
 ##### Week 6 - 2nd October 2019
   * [Oxygen XSLT Processors](https://www.oxygenxml.com/doc/versions/19.0/ug-editor/topics/supported-XSLT-processors.html)
