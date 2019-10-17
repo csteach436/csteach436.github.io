@@ -45,6 +45,7 @@ Links will be added during the course...
   * [MDN web docs - HTML Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
   * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)

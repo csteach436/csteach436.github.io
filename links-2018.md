@@ -36,14 +36,10 @@ Links will be added during the course...
   * [PREMIS](https://www.loc.gov/standards/premis/)
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
   * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
-  * -->
 
 ##### W3C
 
   * [Xalan Project](https://xalan.apache.org/)
-
-
-  * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
   
 
 #### Various

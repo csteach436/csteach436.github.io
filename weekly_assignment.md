@@ -187,22 +187,24 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 8 - 17th October 2018
+##### Week 8 - 16th October 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - Design
     * [Design our app](/assets/docs/extras/design/design-our-app.pdf)
+  * extras - JS
+    * [JS - Core](/assets/docs/extras/js/js-core.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 8](https://github.com/csteach436/source/tree/master/week8)
 * Please add updates on your group's project development to the course's Trello group,
-  * [Week 8 - DEV Week prep](https://trello.com/b/OrBB6NYk/week-8-dev-week-prep)
+  * [Week 8 - DEV Week Prep](https://trello.com/b/pCzDTJuN/week-8-dev-week-prep)
   * I've added instructions on this board.
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 7 - 9th October 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
