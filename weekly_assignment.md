@@ -174,20 +174,20 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 9 - 24th October 2018
+##### Week 9 - 23rd October 2019
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 9](https://github.com/csteach436/source/tree/master/week9)
 * Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2018/comp436-week9.pdf)
+  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2019/comp436-week9.pdf)
   * details are also available in the [Coursework](/coursework/#assessment3) section of this site
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 8 - 16th October 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

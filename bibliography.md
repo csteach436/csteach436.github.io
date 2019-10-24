@@ -56,11 +56,11 @@ There is no specific textbook for this course.
 
 ##### Week 10 - 31st October 2018
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
+-->
 
-##### Week 9 - 24th October 2018
+##### Week 9 - 23rd October 2019
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
   * [XPath Version 2](www.w3.org/TR/xpath20/)
--->
 
 ##### Week 8 - 16th October 2019
   * [XML.com - What is XSL-FO](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
