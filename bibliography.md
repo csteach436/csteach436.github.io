@@ -53,10 +53,10 @@ There is no specific textbook for this course.
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
   * [XPath Version 2](www.w3.org/TR/xpath20/)
-
-##### Week 10 - 31st October 2018
-  * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
 -->
+
+##### Week 10 - 30th October 2019
+  * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
 
 ##### Week 9 - 23rd October 2019
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)

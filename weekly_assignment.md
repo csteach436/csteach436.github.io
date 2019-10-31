@@ -150,31 +150,23 @@ Enjoy your week, and Thanksgiving break.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 10 - 31st October 2018
+##### Week 10 - 30th October 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
-* Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 10](https://github.com/csteach436/source/tree/master/week10)
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Café](https://goo.gl/forms/A6IM388TKzyvNQgk2)
-  * [Group 2 - Trading App](https://goo.gl/forms/9MZinSlnVb7ovMGh2)
-  * [Group 3 - TripMate](https://goo.gl/forms/CRk3jHCO0jZ3ArKJ2)
-  * [Group 4 - JESD Trucking](https://goo.gl/forms/Rh4ktXivryHUZf3f2)
-  * [Group 5 - Synth Display](https://goo.gl/forms/snooHiwwx6kVLsFP2)
-* Complete these peer review forms by **Wednesday 7th November 2018** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Review the XML and XSL code examples and notes posted on the course's GitHub account,
+  * [Notes](https://github.com/csteach436/notes/)
+  * [Source](https://github.com/csteach436/source/)
 * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 10 - Presentation & Dev Files](https://trello.com/b/ZRwRzL7c/week-10-presentation-dev-files)
-  * Please add these files as soon as possible, and by **Wednesday 7th November 2018** at the latest
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/12Nv9ZA7/week-10-presentation-dev-files)
+  * Please add these files as soon as possible, and by **Wednesday 6th November 2019** at the latest
   * instructions are included as a list on the above board
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 9 - 23rd October 2019
 * Review this week's [notes and material](/notes), which includes the class notes
