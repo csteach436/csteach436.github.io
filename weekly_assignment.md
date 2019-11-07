@@ -129,28 +129,27 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week, and Thanksgiving break.
+-->
 
-##### Week 11 - 7th November 2018
+##### Week 11 - 6th November 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - Design
     * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
+  * extras - JS
+	  * [JS - JSON](/assets/docs/extras/js/js-json.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the XML and XSL code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 11](https://github.com/csteach436/source/tree/master/week11)
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 6 - HCI Digital Archive](https://goo.gl/forms/vkcYZCpylLFjR3Wz1)
-  * [Group 7 - Galbraith Fence](https://goo.gl/forms/nv1W0mWBoknkYCBJ3)
-* Complete these peer review forms by **Wednesday 14th November 2018** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
-* Please send me a copy of your group's completed class exercises from this week's course notes
-  * either push to a directory on your group's GitHub account OR
-  * send as an attachment to a private message on Slack
-
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the following TEI-based project, [Folger Digital Texts](http://www.folgerdigitaltexts.org/)
+  * please consider the project's general structure and presentation of rendered texts
+  * how does this project use XML and the encoded texts?
+  * what is the role of metadata in this project?
+  * what do you like or dislike about the general usage of texts?
+  * add any other thoughts or comments on this project...
+ 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 10 - 30th October 2019
 

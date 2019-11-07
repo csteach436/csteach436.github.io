@@ -28,12 +28,14 @@ This material will be updated on a weekly basis.
 
 ##### Week 12 - 14th November 2018
   * [course](/assets/docs/2018/comp436-week12.pdf)
-
-##### Week 11 - 7th November 2018
-  * [course](/assets/docs/2018/comp436-week11.pdf)
-  * extras - Design
-    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf) 
 -->
+
+##### Week 11 - 6th November 2019
+  * [course](/assets/docs/2019/comp436-week11.pdf)
+  * extras - Design
+    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
+  * extras - JS
+	  * [JS - JSON](/assets/docs/extras/js/js-json.pdf)
 
 ##### Week 10 - 30th October 2019
   * N/A - Presentations

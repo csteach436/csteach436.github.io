@@ -48,12 +48,12 @@ There is no specific textbook for this course.
     * [facsimile](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html)
     * [surface](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surface.html)
     * [zone](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-zone.html)
+-->
 
-##### Week 11 - 7th November 2018
+##### Week 11 - 6th November 2019
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
   * [XPath Version 1.0](https://www.w3.org/TR/xpath/#corelib)
   * [XPath Version 2](www.w3.org/TR/xpath20/)
--->
 
 ##### Week 10 - 30th October 2019
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
