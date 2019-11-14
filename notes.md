@@ -25,10 +25,16 @@ This material will be updated on a weekly basis.
 
 ##### Week 13 - 21st November 2018
   * N/A
-
-##### Week 12 - 14th November 2018
-  * [course](/assets/docs/2018/comp436-week12.pdf)
 -->
+
+##### Week 12 - 13th November 2019
+  * [course](/assets/docs/2019/comp436-week12.pdf)
+  * extras - JS
+	  * [JS - Generators and Promises](/assets/docs/extras/js/js-generators-promises.pdf)
+	  * [JS - Working with the DOM](/assets/docs/extras/js/notes-js-dom.pdf)
+  * extras - Various
+	  * [Heroku & Git](/assets/docs/extras/various/git-heroku-setup.pdf)
+	  * [Heroku & MongoDB](/assets/docs/extras/various/heroku-mongodb-setup.pdf)
 
 ##### Week 11 - 6th November 2019
   * [course](/assets/docs/2019/comp436-week11.pdf)

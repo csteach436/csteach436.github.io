@@ -111,25 +111,28 @@ Enjoy your week.
 ##### Week 13 - 21st November 2018
 
 * N/A
+-->
 
-##### Week 12 - 14th November 2018
+##### Week 12 - 13th November 2019
 
-* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - JS
+	  * [JS - Generators and Promises](/assets/docs/extras/js/js-generators-promises.pdf)
+	  * [JS - Working with the DOM](/assets/docs/extras/js/notes-js-dom.pdf)
+  * extras - Various
+	  * [Heroku & Git](/assets/docs/extras/various/git-heroku-setup.pdf)
+	  * [Heroku & MongoDB](/assets/docs/extras/various/heroku-mongodb-setup.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the TEI encoded examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 12](https://github.com/csteach436/source/tree/master/week12)
-* Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the following TEI-based project, [Folger Digital Texts](http://www.folgerdigitaltexts.org/)
-  * please consider the project's general structure and presentation of rendered texts
-  * how does this project use XML and the encoded texts?
-  * how does the project use TEI?
-  * what is the role of metadata in this project?
-  * what do you like or dislike about the general usage of texts?
-  * add any other thoughts or comments on this project...
+* Please start to prepare your project presentation for Wednesday 4th December 2018
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be between 10 and 15 minutes in length
 
 Any questions, please let me know.
 
-Enjoy your week, and Thanksgiving break.
--->
+Enjoy your week.
 
 ##### Week 11 - 6th November 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

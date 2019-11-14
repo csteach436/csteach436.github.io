@@ -24,7 +24,19 @@ There is no specific textbook for this course.
 ##### Week 15 - 5th December 2018
   * N/A
 
-##### Week 14 - 28th November 2018
+##### Week 13 - 21st November 2018
+  * N/A
+
+##### Week 12 - 14th November 2018
+  * [TEI](http://www.tei-c.org/index.xml)
+  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
+    * [representation of primary sources](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html)
+    * [facsimile](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html)
+    * [surface](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surface.html)
+    * [zone](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-zone.html)
+-->
+
+##### Week 12 - 13th November 2019
 
   * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
   * Dempsey, L and R Heery. *Metadata: A current view of practice and issues.* Journal of Documentation, 54(2). PP.145–172. 1998.
@@ -37,18 +49,6 @@ There is no specific textbook for this course.
   * [PREMIS](https://www.loc.gov/standards/premis/)
   * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
   * [Steve Museum Project](http://storytelling.concordia.ca/resources/steve-museum)
-
-##### Week 13 - 21st November 2018
-  * N/A
-
-##### Week 12 - 14th November 2018
-  * [TEI](http://www.tei-c.org/index.xml)
-  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
-    * [representation of primary sources](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html)
-    * [facsimile](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html)
-    * [surface](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surface.html)
-    * [zone](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-zone.html)
--->
 
 ##### Week 11 - 6th November 2019
   * [MDN - XPath functions](https://developer.mozilla.org/en-US/docs/Web/XPath/Functions)
