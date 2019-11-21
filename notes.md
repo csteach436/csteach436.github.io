@@ -27,6 +27,15 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
+##### Week 13 - 20th November 2019
+  * [course](/assets/docs/2019/comp436-week13.pdf)
+  * extras - Systems Management
+	  * [Build First](/assets/docs/extras/systems-mgmt/notes-build-first.pdf)
+	  * [Grunt - Basics](/assets/docs/extras/systems-mgmt/notes-grunt-basics.pdf)
+	  * [Systems - Environments and Distributions](/assets/docs/extras/systems-mgmt/notes-system-env-dist.pdf)
+  * extras
+    * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2019.pdf)
+
 ##### Week 12 - 13th November 2019
   * [course](/assets/docs/2019/comp436-week12.pdf)
   * extras - JS

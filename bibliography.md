@@ -26,15 +26,15 @@ There is no specific textbook for this course.
 
 ##### Week 13 - 21st November 2018
   * N/A
+  * -->
 
-##### Week 12 - 14th November 2018
-  * [TEI](http://www.tei-c.org/index.xml)
-  * [TEI P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
-    * [representation of primary sources](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html)
-    * [facsimile](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html)
-    * [surface](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surface.html)
-    * [zone](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-zone.html)
--->
+##### Week 13 - 20th November 2019
+  * [TEI](https://www.tei-c.org/index.xml)
+  * [TEI P5 Guidelines](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
+    * [representation of primary sources](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/PH.html)
+    * [facsimile](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-facsimile.html)
+    * [surface](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surface.html)
+    * [zone](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-zone.html)
 
 ##### Week 12 - 13th November 2019
 

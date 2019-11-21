@@ -39,6 +39,11 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [Content Standard for Digital Geospatial Metadata](https://www.fgdc.gov/metadata/csdgm/)
+  * [Dublin Core](http://dublincore.org/)
+  * [Europeana Semantic Elements](https://pro.europeana.eu/page/ese-documentation)
+  * [IETF - Uniform Resource Names](https://tools.ietf.org/html/rfc8141)
+  * [Learning Objects Metadata](https://en.wikipedia.org/wiki/Learning_object_metadata)
   * [MDN web docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
   * [MDN web docs - HTML Block-level vs Inline](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#Block-level_vs._inline)
   * [MDN web docs - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
@@ -46,6 +51,10 @@ Links will be added during the course...
   * [MDN - HTML `<table>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
   * [MDN - HTML `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [Node.js - HttpServer on NPM](https://www.npmjs.com/package/http-server)
+  * [Open Archival Information Systems](https://www.oclc.org/research/publications/library/2000/lavoie-oais.html)
+  * [PREMIS](https://www.loc.gov/standards/premis/)
+  * [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
+  * [TEI P5 Guidelines](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ST.html)
   * [W3C - XML well formed](http://www.w3.org/TR/xml/#sec-well-formed)
   * [W3C - XSLT 1.0](https://www.w3.org/TR/xslt)
   * [W3Schools - XPath](https://www.w3schools.com/xml/xml_xpath.asp)
@@ -57,6 +66,7 @@ Links will be added during the course...
 * [W3C - RDF](https://www.w3.org/RDF/)
 * [W3C - XPath Version 1.0 functions](https://www.w3.org/TR/xpath/#corelib)
 * [W3C - XPath Version 2 functions](www.w3.org/TR/xpath20/)
+* [Xalan Project](https://xalan.apache.org/)
 
 #### Mockup and Prototype Tools - a few examples
 
@@ -78,8 +88,8 @@ Links will be added during the course...
     * [Caxton XML](http://www.maloryproject.com/xml/caxton/Caxton.xml)
     * [Project site](http://www.maloryproject.com)
   * [Papers Past](https://paperspast.natlib.govt.nz/)
-  * [Text Encoding Initiative - TEI](http://www.tei-c.org/index.xml)
-  * [TEI Project - intro](http://www.tei-c.org/About/history.xml)
+  * [Text Encoding Initiative - TEI](https://www.tei-c.org/index.xml)
+  * [TEI Project - intro](https://www.tei-c.org/About/history.xml)
   * [TuStep Project](http://www.tustep.uni-tuebingen.de/tustep_eng.html)
   * [Woolf Online](http://www.woolfonline.com)
 
@@ -92,6 +102,10 @@ Links will be added during the course...
   * [Python SimpleHTTPServer](https://docs.python.org/2/library/simplehttpserver.html)
   * [Sublime Text](https://www.sublimetext.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
+
+#### Various
+
+  * [Wikipedia - list of XML markup languages](https://en.wikipedia.org/wiki/List_of_XML_markup_languages) 
 
 ***
 
