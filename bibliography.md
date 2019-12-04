@@ -20,13 +20,11 @@ There is no specific textbook for this course.
 
 ***
 
-<!--
-##### Week 15 - 5th December 2018
+##### Week 15 - 4th December 2019
   * N/A
 
-##### Week 13 - 21st November 2018
+##### Week 14 - 27th November 2019
   * N/A
-  * -->
 
 ##### Week 13 - 20th November 2019
   * [TEI](https://www.tei-c.org/index.xml)

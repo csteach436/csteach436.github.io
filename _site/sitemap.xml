@@ -1,202 +1,548 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://localhost:4000/blog/week-13-update</loc>
-    <lastmod>2019-11-20T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-12-update</loc>
-    <lastmod>2019-11-13T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-11-update</loc>
-    <lastmod>2019-11-06T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-10-update</loc>
-    <lastmod>2019-10-30T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-9-update</loc>
-    <lastmod>2019-10-23T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-8-update</loc>
-    <lastmod>2019-10-16T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-7-update</loc>
-    <lastmod>2019-10-09T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-6-update</loc>
-    <lastmod>2019-10-02T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-5-update</loc>
-    <lastmod>2019-09-25T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-4-update</loc>
-    <lastmod>2019-09-18T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-3-update</loc>
-    <lastmod>2019-09-11T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-2-update</loc>
-    <lastmod>2019-09-04T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-1-update</loc>
-    <lastmod>2019-08-28T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/new-semester</loc>
-    <lastmod>2019-08-26T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/about/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/assignments/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/bibliography/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/contact/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/coursework/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/links/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/notes/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/overview/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/timetable/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/weekly_assignment/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/general/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/news/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/cats/blog/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/categories/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/posts/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/tags/</loc>
-    <lastmod>2019-11-20T19:27:01-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/cats/blog/index.html</loc>
-    <lastmod>2019-11-13T19:08:02-06:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/general/index.html</loc>
-    <lastmod>2019-11-13T19:08:07-06:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/news/index.html</loc>
-    <lastmod>2019-11-13T19:08:07-06:00</lastmod>
-    <priority>0.6</priority>
-  </url>
+<url>
+<loc>http://localhost:4000/indices/categories/index</loc>
+<lastmod>2019-12-04T14:50:25-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/indices/index</loc>
+<lastmod>2019-12-04T14:50:25-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/indices/posts/index</loc>
+<lastmod>2019-12-04T14:50:25-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/indices/tags/index</loc>
+<lastmod>2019-12-04T14:50:25-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/new-semester</loc>
+<lastmod>2019-08-26T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-1-update</loc>
+<lastmod>2019-08-28T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-2-update</loc>
+<lastmod>2019-09-04T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-3-update</loc>
+<lastmod>2019-09-11T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-4-update</loc>
+<lastmod>2019-09-18T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-5-update</loc>
+<lastmod>2019-09-25T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-6-update</loc>
+<lastmod>2019-10-02T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-7-update</loc>
+<lastmod>2019-10-09T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-8-update</loc>
+<lastmod>2019-10-16T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-9-update</loc>
+<lastmod>2019-10-23T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-10-update</loc>
+<lastmod>2019-10-30T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-11-update</loc>
+<lastmod>2019-11-06T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-12-update</loc>
+<lastmod>2019-11-13T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-13-update</loc>
+<lastmod>2019-11-20T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-14-update</loc>
+<lastmod>2019-11-27T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-15-update</loc>
+<lastmod>2019-12-04T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assignments/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bibliography/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/coursework/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/links/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/overview/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/timetable/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/weekly_assignment/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cats/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/general/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/news/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week1.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week10.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week11.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week12.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week14.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week2.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week3.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week4.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week5.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week6.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/Comp436-week9.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp436-final-report-outline-2017.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week1.pdf</loc>
+<lastmod>2018-08-29T19:18:50-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week10.pdf</loc>
+<lastmod>2018-10-31T19:03:01-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week11.pdf</loc>
+<lastmod>2018-11-07T19:38:43-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week12.pdf</loc>
+<lastmod>2018-11-14T19:23:26-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week14.pdf</loc>
+<lastmod>2018-11-28T12:30:17-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week2.pdf</loc>
+<lastmod>2018-09-05T19:09:59-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week3.pdf</loc>
+<lastmod>2018-09-12T21:03:40-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week4.pdf</loc>
+<lastmod>2018-09-19T19:05:21-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week6.pdf</loc>
+<lastmod>2018-10-03T19:33:03-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week7.pdf</loc>
+<lastmod>2018-10-10T19:17:49-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week8.pdf</loc>
+<lastmod>2018-10-17T19:11:45-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp436-week9.pdf</loc>
+<lastmod>2018-10-24T19:10:17-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week1.pdf</loc>
+<lastmod>2019-08-29T10:39:32-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week11.pdf</loc>
+<lastmod>2019-11-06T21:13:41-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week12.pdf</loc>
+<lastmod>2019-11-13T17:40:11-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week13.pdf</loc>
+<lastmod>2019-11-20T19:12:06-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week2.pdf</loc>
+<lastmod>2019-09-04T19:59:40-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week3.pdf</loc>
+<lastmod>2019-09-11T19:20:17-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week4.pdf</loc>
+<lastmod>2019-09-18T21:37:40-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week6.pdf</loc>
+<lastmod>2019-10-02T19:21:37-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week7.pdf</loc>
+<lastmod>2019-10-09T19:19:32-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week8.pdf</loc>
+<lastmod>2019-10-16T20:45:51-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp436-week9.pdf</loc>
+<lastmod>2019-10-23T21:18:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/comp436-final-report-outline-2018.pdf</loc>
+<lastmod>2018-07-24T13:49:48-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/comp436-final-report-outline-2019.pdf</loc>
+<lastmod>2019-08-11T15:34:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/css/css-basics.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/css/css-box-model.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/css/css-grid.pdf</loc>
+<lastmod>2018-10-02T18:02:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/css/css-html5.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/css/css-intro.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/css/mdn-css-grid-basics.pdf</loc>
+<lastmod>2018-10-02T17:56:51-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/dep/css-basics.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/dep/css-intro.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/dep/html-basics.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/dep/html-dom-intro.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/dep/html-intro.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/dep/html5-extra.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/dep/html5-intro.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/design/design-information-architecture.pdf</loc>
+<lastmod>2018-11-07T12:40:46-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/design/design-interface-intro.pdf</loc>
+<lastmod>2017-09-20T20:00:50-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/design/design-mockups.pdf</loc>
+<lastmod>2017-09-29T11:53:59-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/design/design-our-app.pdf</loc>
+<lastmod>2017-09-29T11:49:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/git-basics.pdf</loc>
+<lastmod>2018-07-24T11:24:34-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/html/html-basics.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/html/html-dom-intro.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/html/html-intro.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/html5/html5-extra.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/html5/html5-intro.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/js/js-core.pdf</loc>
+<lastmod>2018-07-25T14:47:10-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/js/js-generators-promises.pdf</loc>
+<lastmod>2018-10-09T20:58:05-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/js/js-intro.pdf</loc>
+<lastmod>2017-09-08T10:27:51-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/js/js-json.pdf</loc>
+<lastmod>2017-09-29T11:42:59-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/js/js-logic.pdf</loc>
+<lastmod>2018-07-25T14:47:10-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/js/notes-js-dom.pdf</loc>
+<lastmod>2018-11-13T18:18:31-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/comp424-final-report-outline.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/js/js-core.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/js/js-generators-promises.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/js/js-intro.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/js/js-json.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/js/js-logic.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node-api-todos/heroku-mongo-postman.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node-api-todos/mongodb-native-driver-api.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node-api-todos/node-todos-api.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node-api-todos/testing-todos-api.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node-apis/api-heroku-mongo.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node-apis/node-todos-api.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node-apis/testing-todos-api.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node/node-express-starter.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node/nodejs-express-outline.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node/nodejs-mongo-outline.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node/nodejs-outline.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node/update-nodejs.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/node/web-sockets/notes-nodejs-socketio.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/various/data-stores-apis.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/various/git-basics.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/various/git-heroku-setup.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/various/google-apis-overview.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/various/heroku-mongodb-setup.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/various/oauth-google-api.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/web-general/basic/notes-basic-geolocation.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/web-general/basic/notes-basic-timestamps.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/web-general/patterns/observer.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/web-general/patterns/pubsub.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/web-general/react/jsx-intro.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/spring/web-general/react/react-proofs.pdf</loc>
+<lastmod>2018-09-19T12:50:39-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/systems-mgmt/notes-build-first.pdf</loc>
+<lastmod>2019-11-19T18:25:17-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/systems-mgmt/notes-grunt-basics.pdf</loc>
+<lastmod>2019-11-19T12:37:04-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/systems-mgmt/notes-system-env-dist.pdf</loc>
+<lastmod>2019-11-18T21:12:59-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/various/git-heroku-setup.pdf</loc>
+<lastmod>2017-11-26T11:27:08-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/various/heroku-mongodb-setup.pdf</loc>
+<lastmod>2017-11-26T11:26:46-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/cats/blog/</loc>
+<lastmod>2019-11-20T19:29:38-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tags/general/</loc>
+<lastmod>2019-11-20T19:29:41-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tags/news/</loc>
+<lastmod>2019-11-20T19:29:41-06:00</lastmod>
+</url>
 </urlset>

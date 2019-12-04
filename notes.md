@@ -18,14 +18,12 @@ This material will be updated on a weekly basis.
 
 ***
 
-<!--
-##### Week 15 - 5th December 2018
+##### Week 15 - 4th December 2019
   * extras
-    * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2018.pdf)
+    * [Final Report Outline](/assets/docs/extras/comp436-final-report-outline-2019.pdf)
 
-##### Week 13 - 21st November 2018
+##### Week 14 - 27th November 2019
   * N/A
--->
 
 ##### Week 13 - 20th November 2019
   * [course](/assets/docs/2019/comp436-week13.pdf)
